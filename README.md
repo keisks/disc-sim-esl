@@ -5,7 +5,7 @@ Welcome to the temp wiki!
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
 
 Keisuke Sakaguchi (keisuke-sa[at]is.naist.jp)  
-Last updated: May 20th, 2013
+Last updated: May 29th, 2013
 
 
 - - -
@@ -45,6 +45,16 @@ Some Python modules are required to run the program.
 1. Download my code for generating semantic distractors, which is available at Github.
     `` git clone git@github.com:keisks/disc-sim-esl.git ``
 
+        > tree -L 1
+         .
+        ├── README.md    #This file
+        ├── classifiers  #Classifiers for each verb.
+        ├── data         #Confusion matrix
+        ├── generate.py  #Main script
+        ├── quiz_src     #Source files for quizzes
+        ├── sample.txt   #Sample text file for a quiz.
+        └── scripts      #Sub scripts
+
 2. Parse *.txt file that contains sentences for quizzes. We use [Stanford CoreNLP](http://www-nlp.stanford.edu/software/corenlp.shtml) and put the output xml file into quiz_src/xml directory. N.B. The dcoref option is not necessary. 
 
 
@@ -62,8 +72,8 @@ Some Python modules are required to run the program.
         quiz_src/questions/sample.answer
 
 
-Coming soon.
-- Format quiz into a test booklet style.
+## ToDo
+- Script to generate quiz in a test booklet style.
 - Checking availability on Windows.
 
 - - -
