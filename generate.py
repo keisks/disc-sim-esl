@@ -1,12 +1,8 @@
 #!/usr/bin/env python
 #encoding: utf-8
 
-__author__ = ""
-__version__ = ""
-__copyright__ = ""
-__license__ = ""
-__descripstion__ = ""
-__usage__ = ""
+__author__ = "Keisuke Sakaguchi"
+__version__ = "0.9"
 
 import sys
 import os
@@ -19,9 +15,10 @@ import scripts.classifySVC
 
 
 ##### edit here according to your environments #####
-sys.path.append("/work/keisuke-sa/proj/msra2012/discriminative/src/pattern-2.4/")
-from pattern.en import *
+path_to_pattern = "YOUR_PATH_TO_pattern.en (e.g. ./pattern-2.4/)"
 #========================
+sys.path.append(path_to_pattern)
+from pattern.en import *
 
 
 # target dictionary
@@ -66,7 +63,6 @@ def generate_question():
         filename_full = 'quiz_src/xml/' + filename
         parsedSentList = scripts.stanfordXmlParser.parseXml(filename_full)
 
-        #ここにquestionfileをつくる
         print 'Generating for: ' + filename
         out_q = open('quiz_src/question/' + filename.split('.xml')[0] + '.question', 'w')
         out_d = open('quiz_src/distractor_answer/' + filename.split('.xml')[0] + '.dist_ans', 'w')
