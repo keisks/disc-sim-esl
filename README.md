@@ -3,7 +3,7 @@
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
 
 Keisuke Sakaguchi (keisuke-sa[at]is.naist.jp)  
-Last updated: May 29th, 2013
+Last updated: June 7th, 2013
 
 
 - - -
