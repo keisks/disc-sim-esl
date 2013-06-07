@@ -1,5 +1,3 @@
-Welcome to the temp wiki!
-
 # Semantic Distracotor Generator
 
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
