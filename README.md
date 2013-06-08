@@ -22,8 +22,8 @@ This document describes the proposed method (DiscSimESL) described in my 2013 AC
     url = {TBD}
     }
 
-It includes data and code used to generate a fill-in-the-blank quiz with a semantic distractor for a given sentence which contains a target word.
-In this code we focus on 689 major verbs extracted from the Lang-8 Corpus as targets.
+It includes data and scripts to generate a fill-in-the-blank quiz with a semantic distractor for a given sentence which contains a target word.
+We focus on 689 major verbs extracted from the Lang-8 Learner Corpora (http://cl.naist.jp/nldata/lang-8/) as targets.
 
 N.B.
 
@@ -32,7 +32,7 @@ N.B.
 - We have checked that the code runs on Linux (Ubuntu 12.04.2 LTS).
 
 ## Pre-requisites
-Some Python modules are required to run the program.
+Some Python modules and the [Stanford CoreNLP](http://www-nlp.stanford.edu/software/corenlp.shtml) toolkit are necessary to run the program.
 
 1. [lxml](http://lxml.de/)
 2. [numpy](http://www.numpy.org/)
@@ -70,10 +70,9 @@ Some Python modules are required to run the program.
         quiz_src/questions/sample.answer
 
 
-## ToDo
+## Upcoming features
 - Script to generate quiz in a test booklet style.
-- Checking availability on Windows.
 
 - - -
-If you have any questions, please email me.
+If you have any questions, please email me (keisks5[at]gmail.com).
 
