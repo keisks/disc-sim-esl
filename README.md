@@ -3,7 +3,7 @@
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
 
 Keisuke Sakaguchi (keisuke-sa[at]is.naist.jp)  
-Last updated: June 7th, 2013
+Last updated: June 16th, 2013
 
 
 - - -
@@ -47,7 +47,8 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 ## Procedure
 1. Download my code for generating semantic distractors, which is available at Github. If you are not familiar with git/github, please install git following the instruction [here](http://git-scm.com/book/en/Getting-Started-Installing-Git).
 
-    `` git clone git@github.com:keisks/disc-sim-esl.git `` or
+    `` git clone git@github.com:keisks/disc-sim-esl.git ``   
+    or  
     `` git clone https://github.com:keisks/disc-sim-esl.git ``
 
         > tree -L 1
@@ -87,5 +88,5 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 - Script to generate quiz in a test booklet style.
 
 - - -
-If you have any questions, please email me (keisks5[at]gmail.com).
+If you have any questions, please email me (keisuke-sa[at]is.naist.jp).
 
