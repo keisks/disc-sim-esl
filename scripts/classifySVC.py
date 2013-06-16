@@ -1,12 +1,8 @@
 #!/usr/bin/env python
 #encoding: utf-8
 
-__author__ = ""
-__version__ = ""
-__copyright__ = ""
-__license__ = ""
-__descripstion__ = ""
-__usage__ = ""
+__author__ = "Keisuke Sakaguchi"
+__version__ = "0.9"
 
 import sys
 import os
