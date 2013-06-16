@@ -45,7 +45,7 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 
 
 ## Procedure
-1. Download my code for generating semantic distractors, which is available at Github.
+1. Download my code for generating semantic distractors, which is available at Github. If you are not familiar with git/github, please install git following the instruction [here](http://git-scm.com/book/en/Getting-Started-Installing-Git).
     `` git clone git@github.com:keisks/disc-sim-esl.git `` or
     `` git clone https://github.com:keisks/disc-sim-esl.git ``
 
@@ -59,15 +59,13 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
         ├── sample.txt   #Sample text file for a quiz.
         └── scripts      #Sub scripts
 
-N.B. If you are not familiar with git/github, please install git following the instruction [here](http://git-scm.com/book/en/Getting-Started-Installing-Git).
 
-2. Parse *.txt file that contains sentences for quizzes. We use [Stanford CoreNLP](http://www-nlp.stanford.edu/software/corenlp.shtml) and put the output xml file into quiz_src/xml directory. 
+2. Parse *.txt file that contains sentences for quizzes. We use [Stanford CoreNLP](http://www-nlp.stanford.edu/software/corenlp.shtml) and put the output xml file into quiz_src/xml directory. (The dcoref option is not necessary.)
 
         Input: sample.txt  
         Run: java -cp stanford-corenlp-1.3.5.jar:stanford-corenlp-1.3.5-models.jar:xom.jar:joda-time.jar:jollyday.jar -Xmx3g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,lemma,ner,parse -file sample.txt -outputDirectory quiz_src/xml/  
         Output: quiz_src/xml/sample.txt.xml
 
-N.B. The dcoref option is not necessary. 
 
 
 3. Edit the path for pattern.en in generate.py 
