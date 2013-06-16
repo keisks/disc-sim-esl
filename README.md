@@ -46,6 +46,7 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 
 ## Procedure
 1. Download my code for generating semantic distractors, which is available at Github. If you are not familiar with git/github, please install git following the instruction [here](http://git-scm.com/book/en/Getting-Started-Installing-Git).
+
     `` git clone git@github.com:keisks/disc-sim-esl.git `` or
     `` git clone https://github.com:keisks/disc-sim-esl.git ``
 
