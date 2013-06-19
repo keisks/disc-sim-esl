@@ -3,8 +3,7 @@
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
 
 Keisuke Sakaguchi (keisuke-sa[at]is.naist.jp)  
-Last updated: June 16th, 2013
-
+Last updated: June 20th, 2013
 
 - - -
 This document describes the proposed method (DiscSimESL) described in my 2013 ACL paper:
@@ -70,7 +69,7 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 
 
 
-3. Edit the path for pattern.en in generate.py 
+3. Edit the path for pattern.en in generate.py (line 18)
 
         Edit path_to_pattern = "YOUR_PATH_TO_pattern.en (e.g. ./pattern-2.4/)"
 
