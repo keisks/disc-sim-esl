@@ -48,7 +48,10 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 
     `` git clone git@github.com:keisks/disc-sim-esl.git ``   
     or  
-    `` git clone https://github.com:keisks/disc-sim-esl.git ``
+    `` git clone https://github.com:keisks/disc-sim-esl.git ``  
+    or  
+    You can download the zip file on the right side.
+
 
         > tree -L 1
          .
