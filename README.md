@@ -3,22 +3,21 @@
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
 
 Keisuke Sakaguchi (keisuke-sa[at]is.naist.jp)  
-Last updated: June 20th, 2013
+Last updated: August 20th, 2013
 
 - - -
 This document describes the proposed method (DiscSimESL) described in my 2013 ACL paper:
 
-    N.B. This is a tentative information.
-    @InProceedings{TBD,
-    author    = {Sakaguchi, Keisuke and Arase, Yuki and Komachi, Mamoru}
+    @InProceedings{sakaguchi-arase-komachi:2013:Short,
+    author    = {Sakaguchi, Keisuke  and  Arase, Yuki  and  Komachi, Mamoru},
     title     = {Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners},
-    booktitle = {Proceedings of the 51th Annual Meeting of the Association for Computational Linguistics},
+    booktitle = {Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
     month     = {August},
     year      = {2013},
     address   = {Sofia, Bulgaria},
     publisher = {Association for Computational Linguistics},
-    pages     = {TBD},
-    url = {TBD}
+    pages     = {238--242},
+    url       = {http://www.aclweb.org/anthology/P13-2043}
     }
 
 It includes data and scripts to generate a fill-in-the-blank quiz with a semantic distractor for a given sentence which contains a target word.
