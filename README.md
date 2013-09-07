@@ -2,7 +2,7 @@
 
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
 
-Keisuke Sakaguchi (keisuke-sa[at]is.naist.jp)  
+Keisuke Sakaguchi (keisuke[at]cs.jhu.edu)  
 Last updated: August 20th, 2013
 
 - - -
@@ -89,5 +89,5 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 - Script to generate quiz in a test booklet style.
 
 - - -
-If you have any questions, please email me (keisuke-sa[at]is.naist.jp).
+If you have any questions, please email me (keisuke[at]cs.jhu.edu).
 
