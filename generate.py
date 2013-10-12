@@ -140,7 +140,7 @@ def generate_question():
                                 decoy = conjugate(decoy, 'ppart') 
 
 
-                            #wirte quiz sentence 
+                            #write quiz sentence 
 
                             for j, w in enumerate(sentDict['word']):
                                 if i != j:
@@ -152,7 +152,7 @@ def generate_question():
                                     out_q.write('_____' + ' ')
                             out_q.write('\n')
 
-                            out_d.write(decoy + ' ' + sentDict['word'][i] + '\n')
+                            out_d.write(sentDict['word'][i] + ',' + decoy + '\n')
                             decoy_made_flag = 1
 
             else:
