@@ -86,6 +86,10 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
         Output:  
         quiz_src/questions/sample.question  
         quiz_src/questions/sample.answer
+        quiz_src/answer_distractor/sample.txt.ans_dist
+        quiz_src/answer_distractor/sample.txt.ans_dist_kbest
+        (Kbest distractors are ranked by log-probability.)
+        
 
 - - -
 If you have any questions, please email me (keisuke[at]cs.jhu.edu).
