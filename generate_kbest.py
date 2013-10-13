@@ -65,8 +65,8 @@ def generate_question():
 
         print 'Generating for: ' + filename
         out_q = open('quiz_src/question/' + filename.split('.xml')[0] + '.question', 'w')
-        out_d = open('quiz_src/distractor_answer/' + filename.split('.xml')[0] + '.dist_ans', 'w')
-        out_d_kbest = open('quiz_src/distractor_answer/' + filename.split('.xml')[0] + '.dist_ans_kbest', 'w')
+        out_d = open('quiz_src/answer_distractor/' + filename.split('.xml')[0] + '.ans_dist', 'w')
+        out_d_kbest = open('quiz_src/answer_distractor/' + filename.split('.xml')[0] + '.ans_dist_kbest', 'w')
 
         for sentDict in parsedSentList:
             generation_flag = 0     # Check if the sentence has a target or not, first.
