@@ -3,7 +3,7 @@
 Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners"
 
 Keisuke Sakaguchi (keisuke[at]cs.jhu.edu)  
-Last updated: August 20th, 2013
+Last updated: October 12th, 2013
 
 - - -
 This document describes the proposed method (DiscSimESL) described in my 2013 ACL paper:
@@ -28,6 +28,7 @@ N.B.
 - There are 689 target verbs extracted from the Lang-8 Corpus, but the DiscSimESL covers 679.
 - It does not include the original Lang-8 and VOA (Voice of America) data due to licensing restrictions.
 - We have checked that the code runs on Linux (Ubuntu 12.04.2 LTS) and Windows 7 (x64).
+- Classifiers for K-best quiz generation are not uploaded due to the data size (=18G). If you are interested in, please e-mail me.
 
 ## Pre-requisites
 The scripts basically run on Python(2.7+).  
@@ -50,17 +51,19 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
     `` git clone https://github.com:keisks/disc-sim-esl.git ``  
     or  
     You can download the zip file on the right side.
-
+  
 
         > tree -L 1
-         .
-        ├── README.md    #This file
-        ├── classifiers  #Classifiers for each verb.
-        ├── data         #Confusion matrix
-        ├── generate.py  #Main script
-        ├── quiz_src     #Source files for quizzes
-        ├── sample.txt   #Sample text file for a quiz.
-        └── scripts      #Sub scripts
+            .
+           ├── README.md         # This file
+           ├── classifiers       # Classifiers for each verb
+           ├── classifiers_kbest # K-best classifiers for each verb (blank)
+           ├── data              # Confusion matrix
+           ├── generate.py       # Main script
+           ├── generate_kbest.py # Main script for K-best output
+           ├── quiz_src          # Source files for quizzes
+           ├── sample.txt        # Sample text file for a quiz
+           └── scripts           # Subscrips
 
 
 2. Parse *.txt file that contains sentences for quizzes. We use [Stanford CoreNLP](http://www-nlp.stanford.edu/software/corenlp.shtml) and put the output xml file into quiz_src/xml directory. (The dcoref option is not necessary.)
@@ -77,16 +80,12 @@ For Windows (x64) users, you may download Python [here](http://www.python.org/ge
 
 
 4. Execute generate.py to generate quiz sentences and options.
- This script will produce quiz sentences in quiz_src/questions, and quiz options in quiz_src/distractor_answer.
+ This script will produce quiz sentences in quiz_src/questions, and quiz options in quiz_src/answer_distractor.
 
-        Run: python generate.py
+        Run: python generate.py or generate_kbest.py
         Output:  
         quiz_src/questions/sample.question  
         quiz_src/questions/sample.answer
-
-
-## Upcoming features
-- Script to generate quiz in a test booklet style.
 
 - - -
 If you have any questions, please email me (keisuke[at]cs.jhu.edu).
