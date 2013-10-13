@@ -14,9 +14,8 @@ import scripts.word_regularize
 import scripts.classifySVC
 import scripts.classifySVC_kbest
 
-
 ##### edit here according to your environments #####
-path_to_pattern = "../pattern-2.4/"
+path_to_pattern = "YOUR_PATH_TO_pattern.en (e.g. ./pattern-2.4/)"
 #========================
 sys.path.append(path_to_pattern)
 from pattern.en import *
