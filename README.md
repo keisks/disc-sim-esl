@@ -5,6 +5,8 @@ Data used in my 2013 ACL paper, "Discriminative Approach to Fill-in-the-Blank Qu
 Keisuke Sakaguchi (keisuke[at]cs.jhu.edu)  
 Last updated: October 12th, 2013
 
+Note: The code is outdated and needs to be updated to be compatible with recent packages. Sorry for the inconvenience!
+
 - - -
 This document describes the proposed method (DiscSimESL) described in my 2013 ACL paper:
 
