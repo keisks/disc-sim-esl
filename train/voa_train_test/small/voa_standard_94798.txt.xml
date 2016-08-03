@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Other</word>
+            <lemma>other</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>Republicans</word>
+            <lemma>Republicans</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="3">
+            <word>who</word>
+            <lemma>who</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>have</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>either</word>
+            <lemma>either</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>taken</word>
+            <lemma>take</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>steps</word>
+            <lemma>step</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>run</word>
+            <lemma>run</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>president</word>
+            <lemma>president</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>or</word>
+            <lemma>or</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>considering</word>
+            <lemma>consider</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>85</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>86</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>bid</word>
+            <lemma>bid</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>include</word>
+            <lemma>include</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>99</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>Massachusetts</word>
+            <lemma>Massachusetts</lemma>
+            <CharacterOffsetBegin>100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="19">
+            <word>Governor</word>
+            <lemma>Governor</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>Mitt</word>
+            <lemma>Mitt</lemma>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="21">
+            <word>Romney</word>
+            <lemma>Romney</lemma>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="22">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>Tennessee</word>
+            <lemma>Tennessee</lemma>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>146</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="24">
+            <word>Senator</word>
+            <lemma>Senator</lemma>
+            <CharacterOffsetBegin>147</CharacterOffsetBegin>
+            <CharacterOffsetEnd>154</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>Bill</word>
+            <lemma>Bill</lemma>
+            <CharacterOffsetBegin>155</CharacterOffsetBegin>
+            <CharacterOffsetEnd>159</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="26">
+            <word>Frist</word>
+            <lemma>Frist</lemma>
+            <CharacterOffsetBegin>160</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="27">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>167</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>Arkansas</word>
+            <lemma>Arkansas</lemma>
+            <CharacterOffsetBegin>168</CharacterOffsetBegin>
+            <CharacterOffsetEnd>176</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="29">
+            <word>Governor</word>
+            <lemma>Governor</lemma>
+            <CharacterOffsetBegin>177</CharacterOffsetBegin>
+            <CharacterOffsetEnd>185</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>Mike</word>
+            <lemma>Mike</lemma>
+            <CharacterOffsetBegin>186</CharacterOffsetBegin>
+            <CharacterOffsetEnd>190</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="31">
+            <word>Huckabee</word>
+            <lemma>Huckabee</lemma>
+            <CharacterOffsetBegin>191</CharacterOffsetBegin>
+            <CharacterOffsetEnd>199</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="32">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>200</CharacterOffsetBegin>
+            <CharacterOffsetEnd>201</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>Kansas</word>
+            <lemma>Kansas</lemma>
+            <CharacterOffsetBegin>202</CharacterOffsetBegin>
+            <CharacterOffsetEnd>208</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="34">
+            <word>Senator</word>
+            <lemma>Senator</lemma>
+            <CharacterOffsetBegin>209</CharacterOffsetBegin>
+            <CharacterOffsetEnd>216</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>Sam</word>
+            <lemma>Sam</lemma>
+            <CharacterOffsetBegin>217</CharacterOffsetBegin>
+            <CharacterOffsetEnd>220</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="36">
+            <word>Brownback</word>
+            <lemma>Brownback</lemma>
+            <CharacterOffsetBegin>221</CharacterOffsetBegin>
+            <CharacterOffsetEnd>230</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="37">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>231</CharacterOffsetBegin>
+            <CharacterOffsetEnd>234</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="38">
+            <word>California</word>
+            <lemma>California</lemma>
+            <CharacterOffsetBegin>235</CharacterOffsetBegin>
+            <CharacterOffsetEnd>245</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="39">
+            <word>Congressman</word>
+            <lemma>Congressman</lemma>
+            <CharacterOffsetBegin>246</CharacterOffsetBegin>
+            <CharacterOffsetEnd>257</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="40">
+            <word>Duncan</word>
+            <lemma>Duncan</lemma>
+            <CharacterOffsetBegin>258</CharacterOffsetBegin>
+            <CharacterOffsetEnd>264</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="41">
+            <word>Hunter</word>
+            <lemma>Hunter</lemma>
+            <CharacterOffsetBegin>265</CharacterOffsetBegin>
+            <CharacterOffsetEnd>271</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="42">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>272</CharacterOffsetBegin>
+            <CharacterOffsetEnd>273</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (JJ Other) (NNPS Republicans)) (SBAR (WHNP (WP who)) (S (VP (VP (VBP have) (ADVP (CC either)) (VP (VBN taken) (NP (NNS steps)) (S (VP (TO to) (VP (VB run) (PP (IN for) (NP (NN president)))))))) (CC or) (VP (VBP are) (VP (VBG considering) (NP (DT a) (NN bid)))))))) (VP (VBP include) (NP (NP (NNP Massachusetts) (NNP Governor) (NNP Mitt) (NNP Romney)) (, ,) (NP (NNP Tennessee) (NNP Senator) (NNP Bill) (NNP Frist)) (, ,) (NP (NNP Arkansas) (NNP Governor) (NNP Mike) (NNP Huckabee)) (, ,) (NP (NNP Kansas) (NNP Senator) (NNP Sam) (NNP Brownback)) (CC and) (NP (NNP California) (NNP Congressman) (NNP Duncan) (NNP Hunter)))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="amod">
+            <governor idx="2">Republicans</governor>
+            <dependent idx="1">Other</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">include</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">taken</governor>
+            <dependent idx="3">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">taken</governor>
+            <dependent idx="4">have</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">taken</governor>
+            <dependent idx="5">either</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Republicans</governor>
+            <dependent idx="6">taken</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">taken</governor>
+            <dependent idx="7">steps</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">run</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">taken</governor>
+            <dependent idx="9">run</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">run</governor>
+            <dependent idx="10">for</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">for</governor>
+            <dependent idx="11">president</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">taken</governor>
+            <dependent idx="12">or</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="14">considering</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">taken</governor>
+            <dependent idx="14">considering</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">bid</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">considering</governor>
+            <dependent idx="16">bid</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="18">Massachusetts</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="19">Governor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="20">Mitt</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">include</governor>
+            <dependent idx="21">Romney</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="23">Tennessee</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="24">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="25">Bill</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">Romney</governor>
+            <dependent idx="26">Frist</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="28">Arkansas</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="29">Governor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="30">Mike</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">Romney</governor>
+            <dependent idx="31">Huckabee</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="33">Kansas</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="34">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="35">Sam</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">Romney</governor>
+            <dependent idx="36">Brownback</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="21">Romney</governor>
+            <dependent idx="37">and</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="38">California</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="39">Congressman</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="40">Duncan</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="21">Romney</governor>
+            <dependent idx="41">Hunter</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="amod">
+            <governor idx="2">Republicans</governor>
+            <dependent idx="1">Other</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">include</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">taken</governor>
+            <dependent idx="3">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">taken</governor>
+            <dependent idx="4">have</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">taken</governor>
+            <dependent idx="5">either</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Republicans</governor>
+            <dependent idx="6">taken</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">taken</governor>
+            <dependent idx="7">steps</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">run</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">taken</governor>
+            <dependent idx="9">run</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="9">run</governor>
+            <dependent idx="11">president</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="14">considering</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="conj_or">
+            <governor idx="6">taken</governor>
+            <dependent idx="14">considering</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">bid</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">considering</governor>
+            <dependent idx="16">bid</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="18">Massachusetts</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="19">Governor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="20">Mitt</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">include</governor>
+            <dependent idx="21">Romney</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="23">Tennessee</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="24">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="25">Bill</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="26">Frist</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="28">Arkansas</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="29">Governor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="30">Mike</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="31">Huckabee</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="33">Kansas</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="34">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="35">Sam</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="36">Brownback</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="38">California</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="39">Congressman</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="40">Duncan</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="41">Hunter</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="amod">
+            <governor idx="2">Republicans</governor>
+            <dependent idx="1">Other</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">include</governor>
+            <dependent idx="2">Republicans</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">taken</governor>
+            <dependent idx="3">who</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">considering</governor>
+            <dependent idx="3">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">taken</governor>
+            <dependent idx="4">have</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">taken</governor>
+            <dependent idx="5">either</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Republicans</governor>
+            <dependent idx="6">taken</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">taken</governor>
+            <dependent idx="7">steps</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">run</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">taken</governor>
+            <dependent idx="9">run</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="9">run</governor>
+            <dependent idx="11">president</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="14">considering</governor>
+            <dependent idx="13">are</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Republicans</governor>
+            <dependent idx="14">considering</dependent>
+          </dep>
+          <dep type="conj_or">
+            <governor idx="6">taken</governor>
+            <dependent idx="14">considering</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">bid</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">considering</governor>
+            <dependent idx="16">bid</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="18">Massachusetts</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="19">Governor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">Romney</governor>
+            <dependent idx="20">Mitt</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">include</governor>
+            <dependent idx="21">Romney</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="23">Tennessee</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="24">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="26">Frist</governor>
+            <dependent idx="25">Bill</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">include</governor>
+            <dependent idx="26">Frist</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="26">Frist</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="28">Arkansas</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="29">Governor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Huckabee</governor>
+            <dependent idx="30">Mike</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">include</governor>
+            <dependent idx="31">Huckabee</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="31">Huckabee</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="33">Kansas</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="34">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Brownback</governor>
+            <dependent idx="35">Sam</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">include</governor>
+            <dependent idx="36">Brownback</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="36">Brownback</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="38">California</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="39">Congressman</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="41">Hunter</governor>
+            <dependent idx="40">Duncan</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">include</governor>
+            <dependent idx="41">Hunter</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="21">Romney</governor>
+            <dependent idx="41">Hunter</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

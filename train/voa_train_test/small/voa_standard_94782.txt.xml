@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Born</word>
+            <lemma>bear</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>New</word>
+            <lemma>New</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="4">
+            <word>York</word>
+            <lemma>York</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="5">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>poor</word>
+            <lemma>poor</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>Jewish</word>
+            <lemma>jewish</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="8">
+            <word>parents</word>
+            <lemma>parent</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>Friedman</word>
+            <lemma>Friedman</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="11">
+            <word>displayed</word>
+            <lemma>display</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>brilliance</word>
+            <lemma>brilliance</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>mathematics</word>
+            <lemma>mathematics</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>young</word>
+            <lemma>young</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>97</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>age</word>
+            <lemma>age</lemma>
+            <CharacterOffsetBegin>98</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>winning</word>
+            <lemma>win</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>scholarship</word>
+            <lemma>scholarship</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>Rutgers</word>
+            <lemma>Rutgers</lemma>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="25">
+            <word>University</word>
+            <lemma>University</lemma>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="26">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>150</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>neighboring</word>
+            <lemma>neighbor</lemma>
+            <CharacterOffsetBegin>151</CharacterOffsetBegin>
+            <CharacterOffsetEnd>162</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>New</word>
+            <lemma>New</lemma>
+            <CharacterOffsetBegin>163</CharacterOffsetBegin>
+            <CharacterOffsetEnd>166</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="29">
+            <word>Jersey</word>
+            <lemma>Jersey</lemma>
+            <CharacterOffsetBegin>167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>173</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="30">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>174</CharacterOffsetBegin>
+            <CharacterOffsetEnd>175</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (VP (VBN Born) (PP (IN in) (NP (NP (NNP New) (NNP York)) (PP (TO to) (NP (JJ poor) (JJ Jewish) (NNS parents))))))) (, ,) (NP (NNP Friedman)) (VP (VBD displayed) (NP (NN brilliance)) (PP (IN in) (NP (NNS mathematics))) (PP (IN at) (NP (DT a) (JJ young) (NN age))) (, ,) (S (VP (VBG winning) (NP (DT a) (NN scholarship)) (PP (TO to) (NP (NP (NNP Rutgers) (NNP University)) (PP (IN in) (NP (NP (VBG neighboring)) (NP (NNP New) (NNP Jersey))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="partmod">
+            <governor idx="11">displayed</governor>
+            <dependent idx="1">Born</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Born</governor>
+            <dependent idx="2">in</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">York</governor>
+            <dependent idx="3">New</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">in</governor>
+            <dependent idx="4">York</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">York</governor>
+            <dependent idx="5">to</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">parents</governor>
+            <dependent idx="6">poor</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">parents</governor>
+            <dependent idx="7">Jewish</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">to</governor>
+            <dependent idx="8">parents</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">displayed</governor>
+            <dependent idx="10">Friedman</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">displayed</governor>
+            <dependent idx="12">brilliance</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">displayed</governor>
+            <dependent idx="13">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="13">in</governor>
+            <dependent idx="14">mathematics</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">displayed</governor>
+            <dependent idx="15">at</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">age</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">age</governor>
+            <dependent idx="17">young</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="15">at</governor>
+            <dependent idx="18">age</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="11">displayed</governor>
+            <dependent idx="20">winning</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">scholarship</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">winning</governor>
+            <dependent idx="22">scholarship</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="20">winning</governor>
+            <dependent idx="23">to</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">University</governor>
+            <dependent idx="24">Rutgers</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="23">to</governor>
+            <dependent idx="25">University</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="25">University</governor>
+            <dependent idx="26">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="26">in</governor>
+            <dependent idx="27">neighboring</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">Jersey</governor>
+            <dependent idx="28">New</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">neighboring</governor>
+            <dependent idx="29">Jersey</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="partmod">
+            <governor idx="11">displayed</governor>
+            <dependent idx="1">Born</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">York</governor>
+            <dependent idx="3">New</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="1">Born</governor>
+            <dependent idx="4">York</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">parents</governor>
+            <dependent idx="6">poor</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">parents</governor>
+            <dependent idx="7">Jewish</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="4">York</governor>
+            <dependent idx="8">parents</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">displayed</governor>
+            <dependent idx="10">Friedman</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">displayed</governor>
+            <dependent idx="12">brilliance</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="11">displayed</governor>
+            <dependent idx="14">mathematics</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">age</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">age</governor>
+            <dependent idx="17">young</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="11">displayed</governor>
+            <dependent idx="18">age</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="11">displayed</governor>
+            <dependent idx="20">winning</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">scholarship</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">winning</governor>
+            <dependent idx="22">scholarship</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">University</governor>
+            <dependent idx="24">Rutgers</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="20">winning</governor>
+            <dependent idx="25">University</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="25">University</governor>
+            <dependent idx="27">neighboring</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">Jersey</governor>
+            <dependent idx="28">New</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">neighboring</governor>
+            <dependent idx="29">Jersey</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="partmod">
+            <governor idx="11">displayed</governor>
+            <dependent idx="1">Born</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">York</governor>
+            <dependent idx="3">New</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="1">Born</governor>
+            <dependent idx="4">York</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">parents</governor>
+            <dependent idx="6">poor</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">parents</governor>
+            <dependent idx="7">Jewish</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="4">York</governor>
+            <dependent idx="8">parents</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">displayed</governor>
+            <dependent idx="10">Friedman</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">displayed</governor>
+            <dependent idx="12">brilliance</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="11">displayed</governor>
+            <dependent idx="14">mathematics</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">age</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">age</governor>
+            <dependent idx="17">young</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="11">displayed</governor>
+            <dependent idx="18">age</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="11">displayed</governor>
+            <dependent idx="20">winning</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">scholarship</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">winning</governor>
+            <dependent idx="22">scholarship</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">University</governor>
+            <dependent idx="24">Rutgers</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="20">winning</governor>
+            <dependent idx="25">University</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="25">University</governor>
+            <dependent idx="27">neighboring</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">Jersey</governor>
+            <dependent idx="28">New</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">neighboring</governor>
+            <dependent idx="29">Jersey</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Intrigued</word>
+            <lemma>intrigue</lemma>
+            <CharacterOffsetBegin>176</CharacterOffsetBegin>
+            <CharacterOffsetEnd>185</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>186</CharacterOffsetBegin>
+            <CharacterOffsetEnd>188</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>189</CharacterOffsetBegin>
+            <CharacterOffsetEnd>192</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>field</word>
+            <lemma>field</lemma>
+            <CharacterOffsetBegin>193</CharacterOffsetBegin>
+            <CharacterOffsetEnd>198</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>199</CharacterOffsetBegin>
+            <CharacterOffsetEnd>201</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>economics</word>
+            <lemma>economics</lemma>
+            <CharacterOffsetBegin>202</CharacterOffsetBegin>
+            <CharacterOffsetEnd>211</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>212</CharacterOffsetBegin>
+            <CharacterOffsetEnd>213</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Friedman</word>
+            <lemma>Friedman</lemma>
+            <CharacterOffsetBegin>214</CharacterOffsetBegin>
+            <CharacterOffsetEnd>222</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="9">
+            <word>went</word>
+            <lemma>go</lemma>
+            <CharacterOffsetBegin>223</CharacterOffsetBegin>
+            <CharacterOffsetEnd>227</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>228</CharacterOffsetBegin>
+            <CharacterOffsetEnd>230</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>231</CharacterOffsetBegin>
+            <CharacterOffsetEnd>233</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>do</word>
+            <lemma>do</lemma>
+            <CharacterOffsetBegin>234</CharacterOffsetBegin>
+            <CharacterOffsetEnd>236</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>graduate</word>
+            <lemma>graduate</lemma>
+            <CharacterOffsetBegin>237</CharacterOffsetBegin>
+            <CharacterOffsetEnd>245</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>work</word>
+            <lemma>work</lemma>
+            <CharacterOffsetBegin>246</CharacterOffsetBegin>
+            <CharacterOffsetEnd>250</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>251</CharacterOffsetBegin>
+            <CharacterOffsetEnd>253</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>254</CharacterOffsetBegin>
+            <CharacterOffsetEnd>257</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>University</word>
+            <lemma>University</lemma>
+            <CharacterOffsetBegin>258</CharacterOffsetBegin>
+            <CharacterOffsetEnd>268</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="18">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>269</CharacterOffsetBegin>
+            <CharacterOffsetEnd>271</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="19">
+            <word>Chicago</word>
+            <lemma>Chicago</lemma>
+            <CharacterOffsetBegin>272</CharacterOffsetBegin>
+            <CharacterOffsetEnd>279</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="20">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>280</CharacterOffsetBegin>
+            <CharacterOffsetEnd>281</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>282</CharacterOffsetBegin>
+            <CharacterOffsetEnd>285</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>home</word>
+            <lemma>home</lemma>
+            <CharacterOffsetBegin>286</CharacterOffsetBegin>
+            <CharacterOffsetEnd>290</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>291</CharacterOffsetBegin>
+            <CharacterOffsetEnd>293</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>some</word>
+            <lemma>some</lemma>
+            <CharacterOffsetBegin>294</CharacterOffsetBegin>
+            <CharacterOffsetEnd>298</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>299</CharacterOffsetBegin>
+            <CharacterOffsetEnd>301</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>302</CharacterOffsetBegin>
+            <CharacterOffsetEnd>305</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>nation</word>
+            <lemma>nation</lemma>
+            <CharacterOffsetBegin>306</CharacterOffsetBegin>
+            <CharacterOffsetEnd>312</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>313</CharacterOffsetBegin>
+            <CharacterOffsetEnd>315</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>leading</word>
+            <lemma>lead</lemma>
+            <CharacterOffsetBegin>316</CharacterOffsetBegin>
+            <CharacterOffsetEnd>323</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>conservative</word>
+            <lemma>conservative</lemma>
+            <CharacterOffsetBegin>324</CharacterOffsetBegin>
+            <CharacterOffsetEnd>336</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>economists</word>
+            <lemma>economist</lemma>
+            <CharacterOffsetBegin>337</CharacterOffsetBegin>
+            <CharacterOffsetEnd>347</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>348</CharacterOffsetBegin>
+            <CharacterOffsetEnd>350</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>351</CharacterOffsetBegin>
+            <CharacterOffsetEnd>354</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>time</word>
+            <lemma>time</lemma>
+            <CharacterOffsetBegin>355</CharacterOffsetBegin>
+            <CharacterOffsetEnd>359</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>360</CharacterOffsetBegin>
+            <CharacterOffsetEnd>361</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (VP (VBN Intrigued) (PP (IN by) (NP (NP (DT the) (NN field)) (PP (IN of) (NP (NNS economics))))))) (, ,) (NP (NNP Friedman)) (VP (VBD went) (PP (IN on) (NP (S (VP (TO to) (VP (VB do) (NP (JJ graduate) (NN work)) (PP (IN at) (NP (NP (DT the) (NNP University)) (PP (IN of) (NP (NNP Chicago)))))))) (, ,) (NP (NP (DT the) (NN home)) (PP (IN of) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (NN nation) (POS 's)) (NP (NP (VBG leading) (JJ conservative) (NNS economists)) (PP (IN of) (NP (DT the) (NN time)))))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="partmod">
+            <governor idx="9">went</governor>
+            <dependent idx="1">Intrigued</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Intrigued</governor>
+            <dependent idx="2">by</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">field</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">by</governor>
+            <dependent idx="4">field</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">field</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">of</governor>
+            <dependent idx="6">economics</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">went</governor>
+            <dependent idx="8">Friedman</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">went</governor>
+            <dependent idx="10">on</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">do</governor>
+            <dependent idx="11">to</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">home</governor>
+            <dependent idx="12">do</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">work</governor>
+            <dependent idx="13">graduate</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">do</governor>
+            <dependent idx="14">work</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="12">do</governor>
+            <dependent idx="15">at</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">University</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="15">at</governor>
+            <dependent idx="17">University</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">University</governor>
+            <dependent idx="18">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">of</governor>
+            <dependent idx="19">Chicago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">home</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">on</governor>
+            <dependent idx="22">home</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="22">home</governor>
+            <dependent idx="23">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="23">of</governor>
+            <dependent idx="24">some</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="24">some</governor>
+            <dependent idx="25">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">nation</governor>
+            <dependent idx="26">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="25">of</governor>
+            <dependent idx="27">nation</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="27">nation</governor>
+            <dependent idx="28">'s</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">economists</governor>
+            <dependent idx="29">leading</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">economists</governor>
+            <dependent idx="30">conservative</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">nation</governor>
+            <dependent idx="31">economists</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="31">economists</governor>
+            <dependent idx="32">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">time</governor>
+            <dependent idx="33">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="32">of</governor>
+            <dependent idx="34">time</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="partmod">
+            <governor idx="9">went</governor>
+            <dependent idx="1">Intrigued</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">field</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="agent">
+            <governor idx="1">Intrigued</governor>
+            <dependent idx="4">field</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">field</governor>
+            <dependent idx="6">economics</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">went</governor>
+            <dependent idx="8">Friedman</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">do</governor>
+            <dependent idx="11">to</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">home</governor>
+            <dependent idx="12">do</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">work</governor>
+            <dependent idx="13">graduate</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">do</governor>
+            <dependent idx="14">work</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">University</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="12">do</governor>
+            <dependent idx="17">University</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">University</governor>
+            <dependent idx="19">Chicago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">home</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="9">went</governor>
+            <dependent idx="22">home</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="22">home</governor>
+            <dependent idx="24">some</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">nation</governor>
+            <dependent idx="26">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="24">some</governor>
+            <dependent idx="27">nation</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="27">nation</governor>
+            <dependent idx="28">'s</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">economists</governor>
+            <dependent idx="29">leading</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">economists</governor>
+            <dependent idx="30">conservative</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">nation</governor>
+            <dependent idx="31">economists</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">time</governor>
+            <dependent idx="33">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="31">economists</governor>
+            <dependent idx="34">time</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="partmod">
+            <governor idx="9">went</governor>
+            <dependent idx="1">Intrigued</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">field</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="agent">
+            <governor idx="1">Intrigued</governor>
+            <dependent idx="4">field</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">field</governor>
+            <dependent idx="6">economics</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">went</governor>
+            <dependent idx="8">Friedman</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">do</governor>
+            <dependent idx="11">to</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="22">home</governor>
+            <dependent idx="12">do</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">work</governor>
+            <dependent idx="13">graduate</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">do</governor>
+            <dependent idx="14">work</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">University</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="12">do</governor>
+            <dependent idx="17">University</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">University</governor>
+            <dependent idx="19">Chicago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">home</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="9">went</governor>
+            <dependent idx="22">home</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="22">home</governor>
+            <dependent idx="24">some</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="27">nation</governor>
+            <dependent idx="26">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="24">some</governor>
+            <dependent idx="27">nation</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="27">nation</governor>
+            <dependent idx="28">'s</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">economists</governor>
+            <dependent idx="29">leading</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">economists</governor>
+            <dependent idx="30">conservative</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="27">nation</governor>
+            <dependent idx="31">economists</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">time</governor>
+            <dependent idx="33">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="31">economists</governor>
+            <dependent idx="34">time</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Rodeo</word>
+            <lemma>Rodeo</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="2">
+            <word>sports</word>
+            <lemma>sport</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>like</word>
+            <lemma>like</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>roping</word>
+            <lemma>roping</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>growing</word>
+            <lemma>grow</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>popularity</word>
+            <lemma>popularity</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>U.S.</word>
+            <lemma>U.S.</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="14">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>especially</word>
+            <lemma>especially</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>80</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>eastern</word>
+            <lemma>eastern</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>part</word>
+            <lemma>part</lemma>
+            <CharacterOffsetBegin>95</CharacterOffsetBegin>
+            <CharacterOffsetEnd>99</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>106</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>country</word>
+            <lemma>country</lemma>
+            <CharacterOffsetBegin>107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Rodeo) (NNS sports)) (, ,) (PP (IN like) (NP (NN roping))) (, ,) (VP (VBP are) (VP (VBG growing) (PP (IN in) (NP (NP (NN popularity)) (PP (IN in) (NP (DT the) (NNP U.S.))))) (, ,) (ADVP (RB especially)) (PP (IN in) (NP (NP (DT the) (JJ eastern) (NN part)) (PP (IN of) (NP (DT the) (NN country))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nn">
+            <governor idx="2">sports</governor>
+            <dependent idx="1">Rodeo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">growing</governor>
+            <dependent idx="2">sports</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="8">growing</governor>
+            <dependent idx="4">like</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">like</governor>
+            <dependent idx="5">roping</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">growing</governor>
+            <dependent idx="7">are</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="8">growing</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">in</governor>
+            <dependent idx="10">popularity</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">popularity</governor>
+            <dependent idx="11">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">U.S.</governor>
+            <dependent idx="12">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">in</governor>
+            <dependent idx="13">U.S.</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">growing</governor>
+            <dependent idx="15">especially</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="8">growing</governor>
+            <dependent idx="16">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">part</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">part</governor>
+            <dependent idx="18">eastern</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="16">in</governor>
+            <dependent idx="19">part</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="19">part</governor>
+            <dependent idx="20">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">country</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="20">of</governor>
+            <dependent idx="22">country</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nn">
+            <governor idx="2">sports</governor>
+            <dependent idx="1">Rodeo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">growing</governor>
+            <dependent idx="2">sports</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="8">growing</governor>
+            <dependent idx="5">roping</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">growing</governor>
+            <dependent idx="7">are</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="8">growing</governor>
+            <dependent idx="10">popularity</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">U.S.</governor>
+            <dependent idx="12">the</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">popularity</governor>
+            <dependent idx="13">U.S.</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">growing</governor>
+            <dependent idx="15">especially</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">part</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">part</governor>
+            <dependent idx="18">eastern</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="8">growing</governor>
+            <dependent idx="19">part</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">country</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="19">part</governor>
+            <dependent idx="22">country</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nn">
+            <governor idx="2">sports</governor>
+            <dependent idx="1">Rodeo</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">growing</governor>
+            <dependent idx="2">sports</dependent>
+          </dep>
+          <dep type="prep_like">
+            <governor idx="8">growing</governor>
+            <dependent idx="5">roping</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">growing</governor>
+            <dependent idx="7">are</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="8">growing</governor>
+            <dependent idx="10">popularity</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">U.S.</governor>
+            <dependent idx="12">the</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="10">popularity</governor>
+            <dependent idx="13">U.S.</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">growing</governor>
+            <dependent idx="15">especially</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">part</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">part</governor>
+            <dependent idx="18">eastern</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="8">growing</governor>
+            <dependent idx="19">part</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">country</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="19">part</governor>
+            <dependent idx="22">country</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

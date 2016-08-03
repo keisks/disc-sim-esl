@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Karl</word>
+            <lemma>Karl</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="2">
+            <word>Inderfurth</word>
+            <lemma>Inderfurth</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>former</word>
+            <lemma>former</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>U.S.</word>
+            <lemma>U.S.</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="6">
+            <word>assistant</word>
+            <lemma>assistant</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>secretary</word>
+            <lemma>secretary</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>state</word>
+            <lemma>state</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>South</word>
+            <lemma>South</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="12">
+            <word>Asia</word>
+            <lemma>Asia</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>agrees</word>
+            <lemma>agree</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>saying</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>security</word>
+            <lemma>security</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>problems</word>
+            <lemma>problem</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>resurgent</word>
+            <lemma>resurgent</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>Taleban</word>
+            <lemma>Taleban</lemma>
+            <CharacterOffsetBegin>131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>138</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="24">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>139</CharacterOffsetBegin>
+            <CharacterOffsetEnd>142</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>local</word>
+            <lemma>local</lemma>
+            <CharacterOffsetBegin>143</CharacterOffsetBegin>
+            <CharacterOffsetEnd>148</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>149</CharacterOffsetBegin>
+            <CharacterOffsetEnd>150</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>not</word>
+            <lemma>not</lemma>
+            <CharacterOffsetBegin>151</CharacterOffsetBegin>
+            <CharacterOffsetEnd>154</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>national</word>
+            <lemma>national</lemma>
+            <CharacterOffsetBegin>155</CharacterOffsetBegin>
+            <CharacterOffsetEnd>163</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>164</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NNP Karl) (NNP Inderfurth)) (, ,) (NP (NP (JJ former) (NNP U.S.) (NN assistant) (NN secretary)) (PP (IN of) (NP (NN state))) (PP (IN for) (NP (NNP South) (NNP Asia)))) (, ,)) (VP (VBZ agrees) (, ,) (S (VP (VBG saying) (SBAR (S (NP (NP (DT the) (NN security) (NNS problems)) (PP (IN of) (NP (DT the) (JJ resurgent) (NNP Taleban)))) (VP (VBP are) (ADJP (JJ local) (, ,) (RB not) (JJ national)))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nn">
+            <governor idx="2">Inderfurth</governor>
+            <dependent idx="1">Karl</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">agrees</governor>
+            <dependent idx="2">Inderfurth</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">secretary</governor>
+            <dependent idx="4">former</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">secretary</governor>
+            <dependent idx="5">U.S.</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">secretary</governor>
+            <dependent idx="6">assistant</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">Inderfurth</governor>
+            <dependent idx="7">secretary</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">secretary</governor>
+            <dependent idx="8">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">of</governor>
+            <dependent idx="9">state</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">secretary</governor>
+            <dependent idx="10">for</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">Asia</governor>
+            <dependent idx="11">South</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">for</governor>
+            <dependent idx="12">Asia</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="14">agrees</governor>
+            <dependent idx="16">saying</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">problems</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">problems</governor>
+            <dependent idx="18">security</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="28">national</governor>
+            <dependent idx="19">problems</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="19">problems</governor>
+            <dependent idx="20">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="23">Taleban</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">Taleban</governor>
+            <dependent idx="22">resurgent</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="20">of</governor>
+            <dependent idx="23">Taleban</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="28">national</governor>
+            <dependent idx="24">are</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="28">national</governor>
+            <dependent idx="25">local</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="28">national</governor>
+            <dependent idx="27">not</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="16">saying</governor>
+            <dependent idx="28">national</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nn">
+            <governor idx="2">Inderfurth</governor>
+            <dependent idx="1">Karl</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">agrees</governor>
+            <dependent idx="2">Inderfurth</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">secretary</governor>
+            <dependent idx="4">former</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">secretary</governor>
+            <dependent idx="5">U.S.</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">secretary</governor>
+            <dependent idx="6">assistant</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">Inderfurth</governor>
+            <dependent idx="7">secretary</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="7">secretary</governor>
+            <dependent idx="9">state</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">Asia</governor>
+            <dependent idx="11">South</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="7">secretary</governor>
+            <dependent idx="12">Asia</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="14">agrees</governor>
+            <dependent idx="16">saying</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">problems</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">problems</governor>
+            <dependent idx="18">security</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="28">national</governor>
+            <dependent idx="19">problems</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="23">Taleban</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">Taleban</governor>
+            <dependent idx="22">resurgent</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="19">problems</governor>
+            <dependent idx="23">Taleban</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="28">national</governor>
+            <dependent idx="24">are</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="28">national</governor>
+            <dependent idx="25">local</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="28">national</governor>
+            <dependent idx="27">not</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="16">saying</governor>
+            <dependent idx="28">national</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nn">
+            <governor idx="2">Inderfurth</governor>
+            <dependent idx="1">Karl</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">agrees</governor>
+            <dependent idx="2">Inderfurth</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">secretary</governor>
+            <dependent idx="4">former</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">secretary</governor>
+            <dependent idx="5">U.S.</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">secretary</governor>
+            <dependent idx="6">assistant</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">Inderfurth</governor>
+            <dependent idx="7">secretary</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="7">secretary</governor>
+            <dependent idx="9">state</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">Asia</governor>
+            <dependent idx="11">South</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="7">secretary</governor>
+            <dependent idx="12">Asia</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="14">agrees</governor>
+            <dependent idx="16">saying</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">problems</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="19">problems</governor>
+            <dependent idx="18">security</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="28">national</governor>
+            <dependent idx="19">problems</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="23">Taleban</governor>
+            <dependent idx="21">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">Taleban</governor>
+            <dependent idx="22">resurgent</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="19">problems</governor>
+            <dependent idx="23">Taleban</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="28">national</governor>
+            <dependent idx="24">are</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="28">national</governor>
+            <dependent idx="25">local</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="28">national</governor>
+            <dependent idx="27">not</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="16">saying</governor>
+            <dependent idx="28">national</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

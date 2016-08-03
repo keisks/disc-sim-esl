@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>A</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>recent</word>
+            <lemma>recent</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Gallup</word>
+            <lemma>Gallup</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="4">
+            <word>poll</word>
+            <lemma>poll</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>found</word>
+            <lemma>find</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>Giuliani</word>
+            <lemma>Giuliani</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>top</word>
+            <lemma>top</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>choice</word>
+            <lemma>choice</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>among</word>
+            <lemma>among</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>Republicans</word>
+            <lemma>Republicans</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="12">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>president</word>
+            <lemma>president</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>85</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>2008</word>
+            <lemma>2008</lemma>
+            <CharacterOffsetBegin>86</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2008</NormalizedNER>
+            <Timex tid="t1" type="DATE">2008</Timex>
+          </token>
+          <token id="16">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT A) (JJ recent) (NNP Gallup) (NN poll)) (VP (VBD found) (S (NP (NNP Giuliani)) (NP (NP (DT the) (JJ top) (NN choice)) (PP (IN among) (NP (NNPS Republicans))))) (PP (IN for) (NP (NP (NN president)) (PP (IN in) (NP (CD 2008)))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="det">
+            <governor idx="4">poll</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">poll</governor>
+            <dependent idx="2">recent</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">poll</governor>
+            <dependent idx="3">Gallup</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">found</governor>
+            <dependent idx="4">poll</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">choice</governor>
+            <dependent idx="6">Giuliani</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">choice</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">choice</governor>
+            <dependent idx="8">top</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">found</governor>
+            <dependent idx="9">choice</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">choice</governor>
+            <dependent idx="10">among</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">among</governor>
+            <dependent idx="11">Republicans</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">found</governor>
+            <dependent idx="12">for</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">for</governor>
+            <dependent idx="13">president</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="13">president</governor>
+            <dependent idx="14">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="14">in</governor>
+            <dependent idx="15">2008</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="4">poll</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">poll</governor>
+            <dependent idx="2">recent</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">poll</governor>
+            <dependent idx="3">Gallup</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">found</governor>
+            <dependent idx="4">poll</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">choice</governor>
+            <dependent idx="6">Giuliani</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">choice</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">choice</governor>
+            <dependent idx="8">top</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">found</governor>
+            <dependent idx="9">choice</dependent>
+          </dep>
+          <dep type="prep_among">
+            <governor idx="9">choice</governor>
+            <dependent idx="11">Republicans</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="5">found</governor>
+            <dependent idx="13">president</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="13">president</governor>
+            <dependent idx="15">2008</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="4">poll</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">poll</governor>
+            <dependent idx="2">recent</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">poll</governor>
+            <dependent idx="3">Gallup</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">found</governor>
+            <dependent idx="4">poll</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">choice</governor>
+            <dependent idx="6">Giuliani</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">choice</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">choice</governor>
+            <dependent idx="8">top</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">found</governor>
+            <dependent idx="9">choice</dependent>
+          </dep>
+          <dep type="prep_among">
+            <governor idx="9">choice</governor>
+            <dependent idx="11">Republicans</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="5">found</governor>
+            <dependent idx="13">president</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="13">president</governor>
+            <dependent idx="15">2008</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Giuliani</word>
+            <lemma>Giuliani</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="2">
+            <word>won</word>
+            <lemma>win</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>support</word>
+            <lemma>support</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>117</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>118</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>28</word>
+            <lemma>28</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>123</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>PERCENT</NER>
+            <NormalizedNER>%28.0</NormalizedNER>
+          </token>
+          <token id="7">
+            <word>percent</word>
+            <lemma>percent</lemma>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>131</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>PERCENT</NER>
+            <NormalizedNER>%28.0</NormalizedNER>
+          </token>
+          <token id="8">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>132</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>voters</word>
+            <lemma>voter</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>141</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>while</word>
+            <lemma>while</lemma>
+            <CharacterOffsetBegin>142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>John</word>
+            <lemma>John</lemma>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>152</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="12">
+            <word>McCain</word>
+            <lemma>McCain</lemma>
+            <CharacterOffsetBegin>153</CharacterOffsetBegin>
+            <CharacterOffsetEnd>159</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="13">
+            <word>was</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>160</CharacterOffsetBegin>
+            <CharacterOffsetEnd>163</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>second</word>
+            <lemma>second</lemma>
+            <CharacterOffsetBegin>164</CharacterOffsetBegin>
+            <CharacterOffsetEnd>170</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>ORDINAL</NER>
+            <NormalizedNER>2.0</NormalizedNER>
+          </token>
+          <token id="15">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>171</CharacterOffsetBegin>
+            <CharacterOffsetEnd>173</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>26</word>
+            <lemma>26</lemma>
+            <CharacterOffsetBegin>174</CharacterOffsetBegin>
+            <CharacterOffsetEnd>176</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>PERCENT</NER>
+            <NormalizedNER>%26.0</NormalizedNER>
+          </token>
+          <token id="17">
+            <word>percent</word>
+            <lemma>percent</lemma>
+            <CharacterOffsetBegin>177</CharacterOffsetBegin>
+            <CharacterOffsetEnd>184</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>PERCENT</NER>
+            <NormalizedNER>%26.0</NormalizedNER>
+          </token>
+          <token id="18">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>185</CharacterOffsetBegin>
+            <CharacterOffsetEnd>186</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Giuliani)) (VP (VBD won) (NP (NP (DT the) (NN support)) (PP (IN of) (NP (NP (CD 28) (NN percent)) (PP (IN of) (NP (NNS voters)))))) (SBAR (IN while) (S (NP (NNP John) (NNP McCain)) (VP (VBD was) (ADJP (JJ second) (PP (IN at) (NP (CD 26) (NN percent)))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nsubj">
+            <governor idx="2">won</governor>
+            <dependent idx="1">Giuliani</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">support</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">won</governor>
+            <dependent idx="4">support</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">support</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="7">percent</governor>
+            <dependent idx="6">28</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">of</governor>
+            <dependent idx="7">percent</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">percent</governor>
+            <dependent idx="8">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">of</governor>
+            <dependent idx="9">voters</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="14">second</governor>
+            <dependent idx="10">while</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">McCain</governor>
+            <dependent idx="11">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">second</governor>
+            <dependent idx="12">McCain</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">second</governor>
+            <dependent idx="13">was</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="2">won</governor>
+            <dependent idx="14">second</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="14">second</governor>
+            <dependent idx="15">at</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="17">percent</governor>
+            <dependent idx="16">26</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="15">at</governor>
+            <dependent idx="17">percent</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nsubj">
+            <governor idx="2">won</governor>
+            <dependent idx="1">Giuliani</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">support</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">won</governor>
+            <dependent idx="4">support</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="7">percent</governor>
+            <dependent idx="6">28</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">support</governor>
+            <dependent idx="7">percent</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="7">percent</governor>
+            <dependent idx="9">voters</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="14">second</governor>
+            <dependent idx="10">while</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">McCain</governor>
+            <dependent idx="11">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">second</governor>
+            <dependent idx="12">McCain</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">second</governor>
+            <dependent idx="13">was</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="2">won</governor>
+            <dependent idx="14">second</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="17">percent</governor>
+            <dependent idx="16">26</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="14">second</governor>
+            <dependent idx="17">percent</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nsubj">
+            <governor idx="2">won</governor>
+            <dependent idx="1">Giuliani</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">support</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">won</governor>
+            <dependent idx="4">support</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="7">percent</governor>
+            <dependent idx="6">28</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">support</governor>
+            <dependent idx="7">percent</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="7">percent</governor>
+            <dependent idx="9">voters</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="14">second</governor>
+            <dependent idx="10">while</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">McCain</governor>
+            <dependent idx="11">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">second</governor>
+            <dependent idx="12">McCain</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">second</governor>
+            <dependent idx="13">was</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="2">won</governor>
+            <dependent idx="14">second</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="17">percent</governor>
+            <dependent idx="16">26</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="14">second</governor>
+            <dependent idx="17">percent</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

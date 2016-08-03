@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Within</word>
+            <lemma>within</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>days</word>
+            <lemma>day</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t1" type="DURATION">PXD</Timex>
+          </token>
+          <token id="3">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>end</word>
+            <lemma>end</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>2006</word>
+            <lemma>2006</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2006</NormalizedNER>
+            <Timex tid="t2" type="DATE">2006</Timex>
+          </token>
+          <token id="9">
+            <word>congressional</word>
+            <lemma>congressional</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>election</word>
+            <lemma>election</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>campaign</word>
+            <lemma>campaign</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>Democrats</word>
+            <lemma>Democrats</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="14">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>Republicans</word>
+            <lemma>Republicans</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="16">
+            <word>alike</word>
+            <lemma>alike</lemma>
+            <CharacterOffsetBegin>95</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>were</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>already</word>
+            <lemma>already</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>taking</word>
+            <lemma>take</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>steps</word>
+            <lemma>step</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>129</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>run</word>
+            <lemma>run</lemma>
+            <CharacterOffsetBegin>130</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>president</word>
+            <lemma>president</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>150</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>2008</word>
+            <lemma>2008</lemma>
+            <CharacterOffsetBegin>151</CharacterOffsetBegin>
+            <CharacterOffsetEnd>155</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2008</NormalizedNER>
+            <Timex tid="t3" type="DATE">2008</Timex>
+          </token>
+          <token id="27">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>156</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN Within) (NP (NP (NNS days)) (PP (IN of) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (DT the) (CD 2006) (JJ congressional) (NN election) (NN campaign))))))) (, ,) (NP (NNPS Democrats) (CC and) (NNPS Republicans)) (ADVP (RB alike)) (VP (VBD were) (ADVP (RB already)) (VP (VBG taking) (NP (NNS steps)) (S (VP (TO to) (VP (VB run) (PP (IN for) (NP (NP (NN president)) (PP (IN in) (NP (CD 2008)))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="prep">
+            <governor idx="19">taking</governor>
+            <dependent idx="1">Within</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">Within</governor>
+            <dependent idx="2">days</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">days</governor>
+            <dependent idx="3">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">end</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">of</governor>
+            <dependent idx="5">end</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">end</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">campaign</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="11">campaign</governor>
+            <dependent idx="8">2006</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">campaign</governor>
+            <dependent idx="9">congressional</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">campaign</governor>
+            <dependent idx="10">election</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="6">of</governor>
+            <dependent idx="11">campaign</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">taking</governor>
+            <dependent idx="13">Democrats</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="13">Democrats</governor>
+            <dependent idx="14">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="13">Democrats</governor>
+            <dependent idx="15">Republicans</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">taking</governor>
+            <dependent idx="16">alike</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="19">taking</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">taking</governor>
+            <dependent idx="18">already</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="19">taking</governor>
+            <dependent idx="20">steps</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">run</governor>
+            <dependent idx="21">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">taking</governor>
+            <dependent idx="22">run</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="22">run</governor>
+            <dependent idx="23">for</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="23">for</governor>
+            <dependent idx="24">president</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="24">president</governor>
+            <dependent idx="25">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="25">in</governor>
+            <dependent idx="26">2008</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="prep_within">
+            <governor idx="19">taking</governor>
+            <dependent idx="2">days</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">end</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">days</governor>
+            <dependent idx="5">end</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">campaign</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="11">campaign</governor>
+            <dependent idx="8">2006</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">campaign</governor>
+            <dependent idx="9">congressional</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">campaign</governor>
+            <dependent idx="10">election</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="5">end</governor>
+            <dependent idx="11">campaign</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">taking</governor>
+            <dependent idx="13">Democrats</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="13">Democrats</governor>
+            <dependent idx="15">Republicans</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">taking</governor>
+            <dependent idx="16">alike</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="19">taking</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">taking</governor>
+            <dependent idx="18">already</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="19">taking</governor>
+            <dependent idx="20">steps</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">run</governor>
+            <dependent idx="21">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">taking</governor>
+            <dependent idx="22">run</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="22">run</governor>
+            <dependent idx="24">president</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="24">president</governor>
+            <dependent idx="26">2008</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="prep_within">
+            <governor idx="19">taking</governor>
+            <dependent idx="2">days</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">end</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">days</governor>
+            <dependent idx="5">end</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">campaign</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="11">campaign</governor>
+            <dependent idx="8">2006</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">campaign</governor>
+            <dependent idx="9">congressional</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">campaign</governor>
+            <dependent idx="10">election</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="5">end</governor>
+            <dependent idx="11">campaign</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">taking</governor>
+            <dependent idx="13">Democrats</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="13">Democrats</governor>
+            <dependent idx="15">Republicans</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="19">taking</governor>
+            <dependent idx="15">Republicans</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">taking</governor>
+            <dependent idx="16">alike</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="19">taking</governor>
+            <dependent idx="17">were</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">taking</governor>
+            <dependent idx="18">already</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="19">taking</governor>
+            <dependent idx="20">steps</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="22">run</governor>
+            <dependent idx="21">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">taking</governor>
+            <dependent idx="22">run</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="22">run</governor>
+            <dependent idx="24">president</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="24">president</governor>
+            <dependent idx="26">2008</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

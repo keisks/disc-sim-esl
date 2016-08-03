@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>While</word>
+            <lemma>while</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Chicago</word>
+            <lemma>Chicago</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="4">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>he</word>
+            <lemma>he</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>married</word>
+            <lemma>marry</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>fellow</word>
+            <lemma>fellow</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>graduate</word>
+            <lemma>graduate</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>student</word>
+            <lemma>student</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>Rose</word>
+            <lemma>Rose</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>Director</word>
+            <lemma>Director</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (SBAR (IN While) (FRAG (PP (IN at) (NP (NNP Chicago))))) (, ,) (NP (PRP he)) (VP (VBD married) (S (NP (JJ fellow) (NN graduate) (NN student)) (NP (NNP Rose) (NNP Director)))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="mark">
+            <governor idx="2">at</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="6">married</governor>
+            <dependent idx="2">at</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">at</governor>
+            <dependent idx="3">Chicago</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">married</governor>
+            <dependent idx="5">he</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">student</governor>
+            <dependent idx="7">fellow</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">student</governor>
+            <dependent idx="8">graduate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">Director</governor>
+            <dependent idx="9">student</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">Director</governor>
+            <dependent idx="10">Rose</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">married</governor>
+            <dependent idx="11">Director</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="mark">
+            <governor idx="2">at</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="6">married</governor>
+            <dependent idx="2">at</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">at</governor>
+            <dependent idx="3">Chicago</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">married</governor>
+            <dependent idx="5">he</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">student</governor>
+            <dependent idx="7">fellow</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">student</governor>
+            <dependent idx="8">graduate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">Director</governor>
+            <dependent idx="9">student</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">Director</governor>
+            <dependent idx="10">Rose</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">married</governor>
+            <dependent idx="11">Director</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="mark">
+            <governor idx="2">at</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="6">married</governor>
+            <dependent idx="2">at</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">at</governor>
+            <dependent idx="3">Chicago</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">married</governor>
+            <dependent idx="5">he</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">student</governor>
+            <dependent idx="7">fellow</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">student</governor>
+            <dependent idx="8">graduate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">Director</governor>
+            <dependent idx="9">student</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">Director</governor>
+            <dependent idx="10">Rose</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">married</governor>
+            <dependent idx="11">Director</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Following</word>
+            <lemma>follow</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>World</word>
+            <lemma>World</lemma>
+            <CharacterOffsetBegin>80</CharacterOffsetBegin>
+            <CharacterOffsetEnd>85</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="3">
+            <word>War</word>
+            <lemma>War</lemma>
+            <CharacterOffsetBegin>86</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="4">
+            <word>II</word>
+            <lemma>II</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="5">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>Friedman</word>
+            <lemma>Friedman</lemma>
+            <CharacterOffsetBegin>95</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="7">
+            <word>earned</word>
+            <lemma>earn</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>110</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>his</word>
+            <lemma>he</lemma>
+            <CharacterOffsetBegin>111</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>doctorate</word>
+            <lemma>doctorate</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>124</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>125</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>Columbia</word>
+            <lemma>Columbia</lemma>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="12">
+            <word>University</word>
+            <lemma>University</lemma>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>149</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>then</word>
+            <lemma>then</lemma>
+            <CharacterOffsetBegin>150</CharacterOffsetBegin>
+            <CharacterOffsetEnd>154</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>returned</word>
+            <lemma>return</lemma>
+            <CharacterOffsetBegin>155</CharacterOffsetBegin>
+            <CharacterOffsetEnd>163</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>164</CharacterOffsetBegin>
+            <CharacterOffsetEnd>166</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>Chicago</word>
+            <lemma>Chicago</lemma>
+            <CharacterOffsetBegin>167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>174</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="18">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>175</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>178</CharacterOffsetBegin>
+            <CharacterOffsetEnd>179</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>faculty</word>
+            <lemma>faculty</lemma>
+            <CharacterOffsetBegin>180</CharacterOffsetBegin>
+            <CharacterOffsetEnd>187</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>member</word>
+            <lemma>member</lemma>
+            <CharacterOffsetBegin>188</CharacterOffsetBegin>
+            <CharacterOffsetEnd>194</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>195</CharacterOffsetBegin>
+            <CharacterOffsetEnd>196</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (VBG Following) (NP (NNP World) (NNP War) (NNP II))) (, ,) (NP (NNP Friedman)) (VP (VP (VBD earned) (NP (PRP$ his) (NN doctorate)) (PP (IN at) (NP (NNP Columbia) (NNP University)))) (, ,) (ADVP (RB then)) (VP (VBD returned) (PP (TO to) (NP (NNP Chicago))) (PP (IN as) (NP (DT a) (NN faculty) (NN member))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="prep">
+            <governor idx="7">earned</governor>
+            <dependent idx="1">Following</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">II</governor>
+            <dependent idx="2">World</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">II</governor>
+            <dependent idx="3">War</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">Following</governor>
+            <dependent idx="4">II</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">earned</governor>
+            <dependent idx="6">Friedman</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">doctorate</governor>
+            <dependent idx="8">his</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">earned</governor>
+            <dependent idx="9">doctorate</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">earned</governor>
+            <dependent idx="10">at</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">University</governor>
+            <dependent idx="11">Columbia</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">at</governor>
+            <dependent idx="12">University</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">earned</governor>
+            <dependent idx="14">then</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">earned</governor>
+            <dependent idx="15">returned</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="15">returned</governor>
+            <dependent idx="16">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="16">to</governor>
+            <dependent idx="17">Chicago</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="15">returned</governor>
+            <dependent idx="18">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">member</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">member</governor>
+            <dependent idx="20">faculty</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">as</governor>
+            <dependent idx="21">member</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nn">
+            <governor idx="4">II</governor>
+            <dependent idx="2">World</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">II</governor>
+            <dependent idx="3">War</dependent>
+          </dep>
+          <dep type="prep_following">
+            <governor idx="7">earned</governor>
+            <dependent idx="4">II</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">earned</governor>
+            <dependent idx="6">Friedman</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">doctorate</governor>
+            <dependent idx="8">his</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">earned</governor>
+            <dependent idx="9">doctorate</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">University</governor>
+            <dependent idx="11">Columbia</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="7">earned</governor>
+            <dependent idx="12">University</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">earned</governor>
+            <dependent idx="14">then</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">earned</governor>
+            <dependent idx="15">returned</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="15">returned</governor>
+            <dependent idx="17">Chicago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">member</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">member</governor>
+            <dependent idx="20">faculty</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="15">returned</governor>
+            <dependent idx="21">member</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nn">
+            <governor idx="4">II</governor>
+            <dependent idx="2">World</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">II</governor>
+            <dependent idx="3">War</dependent>
+          </dep>
+          <dep type="prep_following">
+            <governor idx="7">earned</governor>
+            <dependent idx="4">II</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">earned</governor>
+            <dependent idx="6">Friedman</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">doctorate</governor>
+            <dependent idx="8">his</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">earned</governor>
+            <dependent idx="9">doctorate</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">University</governor>
+            <dependent idx="11">Columbia</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="7">earned</governor>
+            <dependent idx="12">University</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">earned</governor>
+            <dependent idx="14">then</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="7">earned</governor>
+            <dependent idx="15">returned</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="15">returned</governor>
+            <dependent idx="17">Chicago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">member</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="21">member</governor>
+            <dependent idx="20">faculty</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="15">returned</governor>
+            <dependent idx="21">member</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

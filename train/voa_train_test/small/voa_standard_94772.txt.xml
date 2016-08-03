@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Proponents</word>
+            <lemma>proponent</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Afghan</word>
+            <lemma>Afghan</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="4">
+            <word>investment</word>
+            <lemma>investment</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>tend</word>
+            <lemma>tend</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>downplay</word>
+            <lemma>downplay</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>security</word>
+            <lemma>security</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>concerns</word>
+            <lemma>concern</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>underscore</word>
+            <lemma>underscore</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>what</word>
+            <lemma>what</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>they</word>
+            <lemma>they</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>say</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>stability</word>
+            <lemma>stability</lemma>
+            <CharacterOffsetBegin>103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>113</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>117</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>democratic</word>
+            <lemma>democratic</lemma>
+            <CharacterOffsetBegin>118</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>government</word>
+            <lemma>government</lemma>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>139</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>140</CharacterOffsetBegin>
+            <CharacterOffsetEnd>142</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>Kabul</word>
+            <lemma>Kabul</lemma>
+            <CharacterOffsetBegin>143</CharacterOffsetBegin>
+            <CharacterOffsetEnd>148</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="24">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>149</CharacterOffsetBegin>
+            <CharacterOffsetEnd>150</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NNS Proponents)) (PP (IN of) (NP (NNP Afghan) (NN investment)))) (VP (VP (VB tend) (S (VP (TO to) (VP (VB downplay) (NP (NN security) (NNS concerns)))))) (CC and) (VP (VBP underscore) (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (VBP say) (SBAR (S (VP (VBZ is) (NP (NP (DT the) (NN stability)) (PP (IN of) (NP (NP (DT a) (JJ democratic) (NN government)) (PP (IN in) (NP (NNP Kabul)))))))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nsubj">
+            <governor idx="5">tend</governor>
+            <dependent idx="1">Proponents</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Proponents</governor>
+            <dependent idx="2">of</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">investment</governor>
+            <dependent idx="3">Afghan</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">of</governor>
+            <dependent idx="4">investment</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">downplay</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">tend</governor>
+            <dependent idx="7">downplay</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">concerns</governor>
+            <dependent idx="8">security</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">downplay</governor>
+            <dependent idx="9">concerns</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="5">tend</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="5">tend</governor>
+            <dependent idx="11">underscore</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">say</governor>
+            <dependent idx="12">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">say</governor>
+            <dependent idx="13">they</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="11">underscore</governor>
+            <dependent idx="14">say</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">stability</governor>
+            <dependent idx="15">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">stability</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="14">say</governor>
+            <dependent idx="17">stability</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">stability</governor>
+            <dependent idx="18">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">government</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">government</governor>
+            <dependent idx="20">democratic</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">of</governor>
+            <dependent idx="21">government</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">government</governor>
+            <dependent idx="22">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="22">in</governor>
+            <dependent idx="23">Kabul</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nsubj">
+            <governor idx="5">tend</governor>
+            <dependent idx="1">Proponents</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">investment</governor>
+            <dependent idx="3">Afghan</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="1">Proponents</governor>
+            <dependent idx="4">investment</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">downplay</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">tend</governor>
+            <dependent idx="7">downplay</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">concerns</governor>
+            <dependent idx="8">security</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">downplay</governor>
+            <dependent idx="9">concerns</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="5">tend</governor>
+            <dependent idx="11">underscore</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">say</governor>
+            <dependent idx="12">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">say</governor>
+            <dependent idx="13">they</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="11">underscore</governor>
+            <dependent idx="14">say</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">stability</governor>
+            <dependent idx="15">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">stability</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="14">say</governor>
+            <dependent idx="17">stability</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">government</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">government</governor>
+            <dependent idx="20">democratic</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">stability</governor>
+            <dependent idx="21">government</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="21">government</governor>
+            <dependent idx="23">Kabul</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nsubj">
+            <governor idx="5">tend</governor>
+            <dependent idx="1">Proponents</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">underscore</governor>
+            <dependent idx="1">Proponents</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">investment</governor>
+            <dependent idx="3">Afghan</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="1">Proponents</governor>
+            <dependent idx="4">investment</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">downplay</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">tend</governor>
+            <dependent idx="7">downplay</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">concerns</governor>
+            <dependent idx="8">security</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="7">downplay</governor>
+            <dependent idx="9">concerns</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="5">tend</governor>
+            <dependent idx="11">underscore</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="14">say</governor>
+            <dependent idx="12">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">say</governor>
+            <dependent idx="13">they</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="11">underscore</governor>
+            <dependent idx="14">say</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="17">stability</governor>
+            <dependent idx="15">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">stability</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="14">say</governor>
+            <dependent idx="17">stability</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="21">government</governor>
+            <dependent idx="19">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">government</governor>
+            <dependent idx="20">democratic</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">stability</governor>
+            <dependent idx="21">government</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="21">government</governor>
+            <dependent idx="23">Kabul</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

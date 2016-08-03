@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Hoyer</word>
+            <lemma>Hoyer</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="2">
+            <word>prevailed</word>
+            <lemma>prevail</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>nearly</word>
+            <lemma>nearly</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>2-1</word>
+            <lemma>2-1</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>margin</word>
+            <lemma>margin</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>Democratic</word>
+            <lemma>democratic</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="12">
+            <word>caucus</word>
+            <lemma>caucus</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>vote</word>
+            <lemma>vote</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>told</word>
+            <lemma>tell</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>reporters</word>
+            <lemma>reporter</lemma>
+            <CharacterOffsetBegin>80</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>he</word>
+            <lemma>he</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>Pelosi</word>
+            <lemma>Pelosi</lemma>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="20">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>work</word>
+            <lemma>work</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>together</word>
+            <lemma>together</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>based</word>
+            <lemma>base</lemma>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>131</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>common</word>
+            <lemma>common</lemma>
+            <CharacterOffsetBegin>132</CharacterOffsetBegin>
+            <CharacterOffsetEnd>138</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>values</word>
+            <lemma>value</lemma>
+            <CharacterOffsetBegin>139</CharacterOffsetBegin>
+            <CharacterOffsetEnd>145</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>:</word>
+            <lemma>:</lemma>
+            <CharacterOffsetBegin>146</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (SBAR (S (NP (NNP Hoyer)) (VP (VP (VBD prevailed)) (, ,) (VP (PP (IN by) (NP (RB nearly) (DT a) (JJ 2-1) (NN margin))) (PP (IN in) (NP (DT the) (JJ Democratic) (NN caucus) (NN vote)))) (CC and) (VP (VBD told) (NP (NNS reporters)))))) (NP (PRP he) (CC and) (NNP Pelosi)) (VP (MD will) (VP (VB work) (ADVP (RB together)) (PP (VBN based) (PP (IN on) (NP (JJ common) (NNS values)))))) (: :))) </parse>
+        <basic-dependencies>
+          <dep type="nsubj">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="1">Hoyer</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="21">work</governor>
+            <dependent idx="2">prevailed</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="4">by</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">margin</governor>
+            <dependent idx="5">nearly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">margin</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">margin</governor>
+            <dependent idx="7">2-1</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">by</governor>
+            <dependent idx="8">margin</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">by</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">vote</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">vote</governor>
+            <dependent idx="11">Democratic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="13">vote</governor>
+            <dependent idx="12">caucus</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">in</governor>
+            <dependent idx="13">vote</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="14">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="15">told</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">told</governor>
+            <dependent idx="16">reporters</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">work</governor>
+            <dependent idx="17">he</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">he</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="17">he</governor>
+            <dependent idx="19">Pelosi</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">work</governor>
+            <dependent idx="20">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">work</governor>
+            <dependent idx="22">together</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">work</governor>
+            <dependent idx="23">based</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="23">based</governor>
+            <dependent idx="24">on</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">values</governor>
+            <dependent idx="25">common</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="24">on</governor>
+            <dependent idx="26">values</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nsubj">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="1">Hoyer</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="21">work</governor>
+            <dependent idx="2">prevailed</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="4">by</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">margin</governor>
+            <dependent idx="5">nearly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">margin</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">margin</governor>
+            <dependent idx="7">2-1</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">by</governor>
+            <dependent idx="8">margin</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">vote</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">vote</governor>
+            <dependent idx="11">Democratic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="13">vote</governor>
+            <dependent idx="12">caucus</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="4">by</governor>
+            <dependent idx="13">vote</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="15">told</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">told</governor>
+            <dependent idx="16">reporters</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">work</governor>
+            <dependent idx="17">he</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="17">he</governor>
+            <dependent idx="19">Pelosi</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">work</governor>
+            <dependent idx="20">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">work</governor>
+            <dependent idx="22">together</dependent>
+          </dep>
+          <dep type="prepc_based_on">
+            <governor idx="21">work</governor>
+            <dependent idx="24">on</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">values</governor>
+            <dependent idx="25">common</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="21">work</governor>
+            <dependent idx="26">values</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nsubj">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="1">Hoyer</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">told</governor>
+            <dependent idx="1">Hoyer</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="21">work</governor>
+            <dependent idx="2">prevailed</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="4">by</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="21">work</governor>
+            <dependent idx="4">by</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">margin</governor>
+            <dependent idx="5">nearly</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">margin</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">margin</governor>
+            <dependent idx="7">2-1</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">by</governor>
+            <dependent idx="8">margin</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">vote</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">vote</governor>
+            <dependent idx="11">Democratic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="13">vote</governor>
+            <dependent idx="12">caucus</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="4">by</governor>
+            <dependent idx="13">vote</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="2">prevailed</governor>
+            <dependent idx="15">told</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="21">work</governor>
+            <dependent idx="15">told</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">told</governor>
+            <dependent idx="16">reporters</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">work</governor>
+            <dependent idx="17">he</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="17">he</governor>
+            <dependent idx="19">Pelosi</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">work</governor>
+            <dependent idx="19">Pelosi</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">work</governor>
+            <dependent idx="20">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">work</governor>
+            <dependent idx="22">together</dependent>
+          </dep>
+          <dep type="prepc_based_on">
+            <governor idx="21">work</governor>
+            <dependent idx="24">on</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">values</governor>
+            <dependent idx="25">common</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="21">work</governor>
+            <dependent idx="26">values</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

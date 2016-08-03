@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>music</word>
+            <lemma>music</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>Osibisa</word>
+            <lemma>Osibisa</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="5">
+            <word>was</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>welcome</word>
+            <lemma>welcome</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>respite</word>
+            <lemma>respite</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>during</word>
+            <lemma>during</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>tumultuous</word>
+            <lemma>tumultuous</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>political</word>
+            <lemma>political</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>times</word>
+            <lemma>time</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>late</word>
+            <lemma>late</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>sixties</word>
+            <lemma>sixty</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>SET</NER>
+            <Timex tid="t1" type="SET">XX6X</Timex>
+          </token>
+          <token id="18">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>seventies</word>
+            <lemma>seventy</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>SET</NER>
+            <Timex tid="t2" type="SET">XX7X</Timex>
+          </token>
+          <token id="20">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (DT The) (NN music)) (PP (IN of) (NP (NNP Osibisa)))) (VP (VBD was) (NP (DT a) (JJ welcome) (NN respite)) (PP (IN during) (NP (NP (DT the) (JJ tumultuous) (JJ political) (NNS times)) (PP (IN of) (NP (DT the) (JJ late) (NNS sixties) (CC and) (NNS seventies)))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="det">
+            <governor idx="2">music</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">respite</governor>
+            <dependent idx="2">music</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">music</governor>
+            <dependent idx="3">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">of</governor>
+            <dependent idx="4">Osibisa</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="8">respite</governor>
+            <dependent idx="5">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">respite</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">respite</governor>
+            <dependent idx="7">welcome</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="8">respite</governor>
+            <dependent idx="9">during</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">times</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">times</governor>
+            <dependent idx="11">tumultuous</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">times</governor>
+            <dependent idx="12">political</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">during</governor>
+            <dependent idx="13">times</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="13">times</governor>
+            <dependent idx="14">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">sixties</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">sixties</governor>
+            <dependent idx="16">late</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="14">of</governor>
+            <dependent idx="17">sixties</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">sixties</governor>
+            <dependent idx="18">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="17">sixties</governor>
+            <dependent idx="19">seventies</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="2">music</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">respite</governor>
+            <dependent idx="2">music</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">music</governor>
+            <dependent idx="4">Osibisa</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="8">respite</governor>
+            <dependent idx="5">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">respite</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">respite</governor>
+            <dependent idx="7">welcome</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">times</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">times</governor>
+            <dependent idx="11">tumultuous</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">times</governor>
+            <dependent idx="12">political</dependent>
+          </dep>
+          <dep type="prep_during">
+            <governor idx="8">respite</governor>
+            <dependent idx="13">times</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">sixties</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">sixties</governor>
+            <dependent idx="16">late</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="13">times</governor>
+            <dependent idx="17">sixties</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="17">sixties</governor>
+            <dependent idx="19">seventies</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="2">music</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">respite</governor>
+            <dependent idx="2">music</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">music</governor>
+            <dependent idx="4">Osibisa</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="8">respite</governor>
+            <dependent idx="5">was</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">respite</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">respite</governor>
+            <dependent idx="7">welcome</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">times</governor>
+            <dependent idx="10">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">times</governor>
+            <dependent idx="11">tumultuous</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">times</governor>
+            <dependent idx="12">political</dependent>
+          </dep>
+          <dep type="prep_during">
+            <governor idx="8">respite</governor>
+            <dependent idx="13">times</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">sixties</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">sixties</governor>
+            <dependent idx="16">late</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="13">times</governor>
+            <dependent idx="17">sixties</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="13">times</governor>
+            <dependent idx="19">seventies</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="17">sixties</governor>
+            <dependent idx="19">seventies</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Throughout</word>
+            <lemma>throughout</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>131</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t1" type="DURATION">PXY</Timex>
+          </token>
+          <token id="3">
+            <word>years</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>132</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t1" type="DURATION">PXY</Timex>
+          </token>
+          <token id="4">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>139</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>140</CharacterOffsetBegin>
+            <CharacterOffsetEnd>143</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>band</word>
+            <lemma>band</lemma>
+            <CharacterOffsetBegin>144</CharacterOffsetBegin>
+            <CharacterOffsetEnd>148</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>has</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>149</CharacterOffsetBegin>
+            <CharacterOffsetEnd>152</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>continued</word>
+            <lemma>continue</lemma>
+            <CharacterOffsetBegin>153</CharacterOffsetBegin>
+            <CharacterOffsetEnd>162</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>163</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>influence</word>
+            <lemma>influence</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>175</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>generations</word>
+            <lemma>generation</lemma>
+            <CharacterOffsetBegin>176</CharacterOffsetBegin>
+            <CharacterOffsetEnd>187</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>188</CharacterOffsetBegin>
+            <CharacterOffsetEnd>190</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>world</word>
+            <lemma>world</lemma>
+            <CharacterOffsetBegin>191</CharacterOffsetBegin>
+            <CharacterOffsetEnd>196</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>musicians</word>
+            <lemma>musician</lemma>
+            <CharacterOffsetBegin>197</CharacterOffsetBegin>
+            <CharacterOffsetEnd>206</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>who</word>
+            <lemma>who</lemma>
+            <CharacterOffsetBegin>207</CharacterOffsetBegin>
+            <CharacterOffsetEnd>210</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>have</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>211</CharacterOffsetBegin>
+            <CharacterOffsetEnd>215</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>followed</word>
+            <lemma>follow</lemma>
+            <CharacterOffsetBegin>216</CharacterOffsetBegin>
+            <CharacterOffsetEnd>224</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>225</CharacterOffsetBegin>
+            <CharacterOffsetEnd>227</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>their</word>
+            <lemma>they</lemma>
+            <CharacterOffsetBegin>228</CharacterOffsetBegin>
+            <CharacterOffsetEnd>233</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>footsteps</word>
+            <lemma>footstep</lemma>
+            <CharacterOffsetBegin>234</CharacterOffsetBegin>
+            <CharacterOffsetEnd>243</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>244</CharacterOffsetBegin>
+            <CharacterOffsetEnd>245</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN Throughout) (NP (DT the) (NNS years))) (, ,) (NP (DT the) (NN band)) (VP (VBZ has) (VP (VBN continued) (S (VP (TO to) (VP (VB influence) (NP (NP (NNS generations)) (PP (IN of) (NP (NN world) (NNS musicians))) (SBAR (WHNP (WP who)) (S (VP (VBP have) (VP (VBN followed) (PP (IN in) (NP (PRP$ their) (NNS footsteps))))))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="prep">
+            <governor idx="8">continued</governor>
+            <dependent idx="1">Throughout</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">years</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">Throughout</governor>
+            <dependent idx="3">years</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">band</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">continued</governor>
+            <dependent idx="6">band</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">continued</governor>
+            <dependent idx="7">has</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="10">influence</governor>
+            <dependent idx="9">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="8">continued</governor>
+            <dependent idx="10">influence</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">influence</governor>
+            <dependent idx="11">generations</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">generations</governor>
+            <dependent idx="12">of</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="14">musicians</governor>
+            <dependent idx="13">world</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">of</governor>
+            <dependent idx="14">musicians</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">followed</governor>
+            <dependent idx="15">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="17">followed</governor>
+            <dependent idx="16">have</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="11">generations</governor>
+            <dependent idx="17">followed</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">followed</governor>
+            <dependent idx="18">in</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="20">footsteps</governor>
+            <dependent idx="19">their</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">in</governor>
+            <dependent idx="20">footsteps</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="3">years</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="prep_throughout">
+            <governor idx="8">continued</governor>
+            <dependent idx="3">years</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">band</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">continued</governor>
+            <dependent idx="6">band</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">continued</governor>
+            <dependent idx="7">has</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="10">influence</governor>
+            <dependent idx="9">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="8">continued</governor>
+            <dependent idx="10">influence</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">influence</governor>
+            <dependent idx="11">generations</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="14">musicians</governor>
+            <dependent idx="13">world</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="11">generations</governor>
+            <dependent idx="14">musicians</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">followed</governor>
+            <dependent idx="15">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="17">followed</governor>
+            <dependent idx="16">have</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="11">generations</governor>
+            <dependent idx="17">followed</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="20">footsteps</governor>
+            <dependent idx="19">their</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="17">followed</governor>
+            <dependent idx="20">footsteps</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="3">years</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="prep_throughout">
+            <governor idx="8">continued</governor>
+            <dependent idx="3">years</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">band</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">continued</governor>
+            <dependent idx="6">band</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">continued</governor>
+            <dependent idx="7">has</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="10">influence</governor>
+            <dependent idx="9">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="8">continued</governor>
+            <dependent idx="10">influence</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">influence</governor>
+            <dependent idx="11">generations</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="14">musicians</governor>
+            <dependent idx="13">world</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="11">generations</governor>
+            <dependent idx="14">musicians</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">followed</governor>
+            <dependent idx="15">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="17">followed</governor>
+            <dependent idx="16">have</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="11">generations</governor>
+            <dependent idx="17">followed</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="20">footsteps</governor>
+            <dependent idx="19">their</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="17">followed</governor>
+            <dependent idx="20">footsteps</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

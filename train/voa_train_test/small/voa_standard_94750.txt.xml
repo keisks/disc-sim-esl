@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>While</word>
+            <lemma>while</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>lawmakers</word>
+            <lemma>lawmaker</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>aim</word>
+            <lemma>aim</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>curb</word>
+            <lemma>curb</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>online</word>
+            <lemma>online</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>gaming</word>
+            <lemma>gaming</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>Vegas</word>
+            <lemma>Vegas</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>skeptical</word>
+            <lemma>skeptical</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (SBAR (IN While) (S (NP (NNS lawmakers)) (VP (VBP aim) (S (VP (TO to) (VP (VB curb) (PP (NN online) (NP (NN gaming))))))))) (, ,) (NP (NNP Vegas)) (VP (VBZ is) (ADJP (JJ skeptical))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="mark">
+            <governor idx="3">aim</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">aim</governor>
+            <dependent idx="2">lawmakers</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="3">aim</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">curb</governor>
+            <dependent idx="4">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">aim</governor>
+            <dependent idx="5">curb</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">curb</governor>
+            <dependent idx="6">online</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">online</governor>
+            <dependent idx="7">gaming</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="9">Vegas</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="mark">
+            <governor idx="3">aim</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">aim</governor>
+            <dependent idx="2">lawmakers</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="3">aim</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">curb</governor>
+            <dependent idx="4">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">aim</governor>
+            <dependent idx="5">curb</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">curb</governor>
+            <dependent idx="6">online</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">online</governor>
+            <dependent idx="7">gaming</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="9">Vegas</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="mark">
+            <governor idx="3">aim</governor>
+            <dependent idx="1">While</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">aim</governor>
+            <dependent idx="2">lawmakers</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="3">aim</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">curb</governor>
+            <dependent idx="4">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">aim</governor>
+            <dependent idx="5">curb</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">curb</governor>
+            <dependent idx="6">online</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">online</governor>
+            <dependent idx="7">gaming</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="9">Vegas</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="11">skeptical</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Casino</word>
+            <lemma>casino</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>operators</word>
+            <lemma>operator</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>believe</word>
+            <lemma>believe</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>demand</word>
+            <lemma>demand</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>force</word>
+            <lemma>force</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>107</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>Congress</word>
+            <lemma>Congress</lemma>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="8">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>119</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>permit</word>
+            <lemma>permit</lemma>
+            <CharacterOffsetBegin>120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>online</word>
+            <lemma>online</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>gambling</word>
+            <lemma>gambling</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>142</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>--</word>
+            <lemma>--</lemma>
+            <CharacterOffsetBegin>143</CharacterOffsetBegin>
+            <CharacterOffsetEnd>145</CharacterOffsetEnd>
+            <POS>:</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>under</word>
+            <lemma>under</lemma>
+            <CharacterOffsetBegin>146</CharacterOffsetBegin>
+            <CharacterOffsetEnd>151</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>strict</word>
+            <lemma>strict</lemma>
+            <CharacterOffsetBegin>152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>158</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>government</word>
+            <lemma>government</lemma>
+            <CharacterOffsetBegin>159</CharacterOffsetBegin>
+            <CharacterOffsetEnd>169</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>supervision</word>
+            <lemma>supervision</lemma>
+            <CharacterOffsetBegin>170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>181</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>182</CharacterOffsetBegin>
+            <CharacterOffsetEnd>183</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NN Casino) (NNS operators)) (VP (VBP believe) (SBAR (S (NP (NN demand)) (VP (MD will) (VP (VB force) (S (NP (NNP Congress)) (VP (TO to) (VP (VB permit) (NP (JJ online) (NN gambling)) (: --) (PP (IN under) (NP (JJ strict) (NN government) (NN supervision))))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nn">
+            <governor idx="2">operators</governor>
+            <dependent idx="1">Casino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">believe</governor>
+            <dependent idx="2">operators</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">force</governor>
+            <dependent idx="4">demand</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">force</governor>
+            <dependent idx="5">will</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">believe</governor>
+            <dependent idx="6">force</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">permit</governor>
+            <dependent idx="7">Congress</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">permit</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">force</governor>
+            <dependent idx="9">permit</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">gambling</governor>
+            <dependent idx="10">online</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">permit</governor>
+            <dependent idx="11">gambling</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">permit</governor>
+            <dependent idx="13">under</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">supervision</governor>
+            <dependent idx="14">strict</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">supervision</governor>
+            <dependent idx="15">government</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="13">under</governor>
+            <dependent idx="16">supervision</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nn">
+            <governor idx="2">operators</governor>
+            <dependent idx="1">Casino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">believe</governor>
+            <dependent idx="2">operators</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">force</governor>
+            <dependent idx="4">demand</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">force</governor>
+            <dependent idx="5">will</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">believe</governor>
+            <dependent idx="6">force</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">permit</governor>
+            <dependent idx="7">Congress</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">permit</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">force</governor>
+            <dependent idx="9">permit</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">gambling</governor>
+            <dependent idx="10">online</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">permit</governor>
+            <dependent idx="11">gambling</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">supervision</governor>
+            <dependent idx="14">strict</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">supervision</governor>
+            <dependent idx="15">government</dependent>
+          </dep>
+          <dep type="prep_under">
+            <governor idx="9">permit</governor>
+            <dependent idx="16">supervision</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nn">
+            <governor idx="2">operators</governor>
+            <dependent idx="1">Casino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">believe</governor>
+            <dependent idx="2">operators</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">force</governor>
+            <dependent idx="4">demand</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">force</governor>
+            <dependent idx="5">will</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">believe</governor>
+            <dependent idx="6">force</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">permit</governor>
+            <dependent idx="7">Congress</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">permit</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">force</governor>
+            <dependent idx="9">permit</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">gambling</governor>
+            <dependent idx="10">online</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">permit</governor>
+            <dependent idx="11">gambling</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">supervision</governor>
+            <dependent idx="14">strict</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">supervision</governor>
+            <dependent idx="15">government</dependent>
+          </dep>
+          <dep type="prep_under">
+            <governor idx="9">permit</governor>
+            <dependent idx="16">supervision</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

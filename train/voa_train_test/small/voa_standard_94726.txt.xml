@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>''</word>
+            <lemma>''</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>''</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>Approximately</word>
+            <lemma>approximately</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>one-third</word>
+            <lemma>one-third</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>ORDINAL</NER>
+          </token>
+          <token id="5">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>developing</word>
+            <lemma>develop</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>countries</word>
+            <lemma>country</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>still</word>
+            <lemma>still</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>have</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>-LRB-</word>
+            <lemma>-lrb-</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>-LRB-</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>broadband</word>
+            <lemma>broadband</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>-RRB-</word>
+            <lemma>-rrb-</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>-RRB-</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>penetration</word>
+            <lemma>penetration</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>rate</word>
+            <lemma>rate</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>less</word>
+            <lemma>less</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>JJR</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>than</word>
+            <lemma>than</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>five</word>
+            <lemma>five</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>PERCENT</NER>
+            <NormalizedNER>&lt;%5.0</NormalizedNER>
+          </token>
+          <token id="21">
+            <word>percent</word>
+            <lemma>percent</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>PERCENT</NER>
+            <NormalizedNER>&lt;%5.0</NormalizedNER>
+          </token>
+          <token id="22">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>''</word>
+            <lemma>''</lemma>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>''</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>she</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>said</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>139</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>140</CharacterOffsetBegin>
+            <CharacterOffsetEnd>141</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S ('' '') (S (ADVP (RB Approximately)) (, ,) (NP (NP (NN one-third)) (PP (IN of) (NP (VBG developing) (NNS countries)))) (ADVP (RB still)) (VP (VBP have) (NP (NP (DT a) (PRN (-LRB- -LRB-) (NP (NN broadband)) (-RRB- -RRB-)) (NN penetration) (NN rate)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (QP (XS (JJR less) (IN than)) (CD five)) (NN percent)))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="advmod">
+            <governor idx="9">have</governor>
+            <dependent idx="2">Approximately</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">have</governor>
+            <dependent idx="4">one-third</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">one-third</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">countries</governor>
+            <dependent idx="6">developing</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">of</governor>
+            <dependent idx="7">countries</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="9">have</governor>
+            <dependent idx="8">still</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">said</governor>
+            <dependent idx="9">have</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">rate</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="15">rate</governor>
+            <dependent idx="12">broadband</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="15">rate</governor>
+            <dependent idx="14">penetration</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">have</governor>
+            <dependent idx="15">rate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">percent</governor>
+            <dependent idx="16">that</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">percent</governor>
+            <dependent idx="17">is</dependent>
+          </dep>
+          <dep type="mwe">
+            <governor idx="19">than</governor>
+            <dependent idx="18">less</dependent>
+          </dep>
+          <dep type="quantmod">
+            <governor idx="20">five</governor>
+            <dependent idx="19">than</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">percent</governor>
+            <dependent idx="20">five</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="15">rate</governor>
+            <dependent idx="21">percent</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">said</governor>
+            <dependent idx="24">she</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="advmod">
+            <governor idx="9">have</governor>
+            <dependent idx="2">Approximately</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">have</governor>
+            <dependent idx="4">one-third</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">countries</governor>
+            <dependent idx="6">developing</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">one-third</governor>
+            <dependent idx="7">countries</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="9">have</governor>
+            <dependent idx="8">still</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">said</governor>
+            <dependent idx="9">have</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">rate</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="15">rate</governor>
+            <dependent idx="12">broadband</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="15">rate</governor>
+            <dependent idx="14">penetration</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">have</governor>
+            <dependent idx="15">rate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">percent</governor>
+            <dependent idx="16">that</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">percent</governor>
+            <dependent idx="17">is</dependent>
+          </dep>
+          <dep type="mwe">
+            <governor idx="19">than</governor>
+            <dependent idx="18">less</dependent>
+          </dep>
+          <dep type="quantmod">
+            <governor idx="20">five</governor>
+            <dependent idx="19">than</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">percent</governor>
+            <dependent idx="20">five</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="15">rate</governor>
+            <dependent idx="21">percent</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">said</governor>
+            <dependent idx="24">she</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="advmod">
+            <governor idx="9">have</governor>
+            <dependent idx="2">Approximately</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">have</governor>
+            <dependent idx="4">one-third</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">countries</governor>
+            <dependent idx="6">developing</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">one-third</governor>
+            <dependent idx="7">countries</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="9">have</governor>
+            <dependent idx="8">still</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">said</governor>
+            <dependent idx="9">have</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">rate</governor>
+            <dependent idx="10">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="15">rate</governor>
+            <dependent idx="12">broadband</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="15">rate</governor>
+            <dependent idx="14">penetration</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">have</governor>
+            <dependent idx="15">rate</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">percent</governor>
+            <dependent idx="16">that</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">percent</governor>
+            <dependent idx="17">is</dependent>
+          </dep>
+          <dep type="mwe">
+            <governor idx="19">than</governor>
+            <dependent idx="18">less</dependent>
+          </dep>
+          <dep type="quantmod">
+            <governor idx="20">five</governor>
+            <dependent idx="19">than</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">percent</governor>
+            <dependent idx="20">five</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="15">rate</governor>
+            <dependent idx="21">percent</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">said</governor>
+            <dependent idx="24">she</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

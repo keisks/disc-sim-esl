@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Calling</word>
+            <lemma>call</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>conflict</word>
+            <lemma>conflict</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>there</word>
+            <lemma>there</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>ethical</word>
+            <lemma>ethical</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>issue</word>
+            <lemma>issue</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>facing</word>
+            <lemma>face</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>Congress</word>
+            <lemma>Congress</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="10">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>American</word>
+            <lemma>american</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="13">
+            <word>people</word>
+            <lemma>people</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>85</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>she</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>86</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>signaled</word>
+            <lemma>signal</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>Democrat</word>
+            <lemma>Democrat</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>107</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="18">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>110</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>determination</word>
+            <lemma>determination</lemma>
+            <CharacterOffsetBegin>111</CharacterOffsetBegin>
+            <CharacterOffsetEnd>124</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>125</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>work</word>
+            <lemma>work</lemma>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>132</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>135</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>end</word>
+            <lemma>end</lemma>
+            <CharacterOffsetBegin>136</CharacterOffsetBegin>
+            <CharacterOffsetEnd>139</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>140</CharacterOffsetBegin>
+            <CharacterOffsetEnd>143</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>war</word>
+            <lemma>war</lemma>
+            <CharacterOffsetBegin>144</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>151</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>bring</word>
+            <lemma>bring</lemma>
+            <CharacterOffsetBegin>152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>U.S.</word>
+            <lemma>U.S.</lemma>
+            <CharacterOffsetBegin>158</CharacterOffsetBegin>
+            <CharacterOffsetEnd>162</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="29">
+            <word>troops</word>
+            <lemma>troops</lemma>
+            <CharacterOffsetBegin>163</CharacterOffsetBegin>
+            <CharacterOffsetEnd>169</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>home</word>
+            <lemma>home</lemma>
+            <CharacterOffsetBegin>170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>174</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>175</CharacterOffsetBegin>
+            <CharacterOffsetEnd>176</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (VP (VBG Calling) (NP (NP (ADVP (NP (DT the) (NN conflict)) (RB there)) (DT an) (JJ ethical) (NN issue)) (VP (VBG facing) (NP (NP (NNP Congress)) (CC and) (NP (DT the) (JJ American) (NNS people))))))) (, ,) (NP (PRP she)) (VP (VBD signaled) (NP (NP (NNP Democrat) (POS 's)) (NN determination) (S (VP (TO to) (VP (VB work) (S (VP (TO to) (VP (VP (VB end) (NP (DT the) (NN war))) (CC and) (VP (VB bring) (NP (NNP U.S.) (NNS troops)) (ADVP (NN home))))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="partmod">
+            <governor idx="16">signaled</governor>
+            <dependent idx="1">Calling</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">conflict</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="4">there</governor>
+            <dependent idx="3">conflict</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">issue</governor>
+            <dependent idx="4">there</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">issue</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">issue</governor>
+            <dependent idx="6">ethical</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">Calling</governor>
+            <dependent idx="7">issue</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="7">issue</governor>
+            <dependent idx="8">facing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">facing</governor>
+            <dependent idx="9">Congress</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="9">Congress</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">people</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">people</governor>
+            <dependent idx="12">American</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="9">Congress</governor>
+            <dependent idx="13">people</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="16">signaled</governor>
+            <dependent idx="15">she</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="19">determination</governor>
+            <dependent idx="17">Democrat</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="17">Democrat</governor>
+            <dependent idx="18">'s</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">signaled</governor>
+            <dependent idx="19">determination</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">work</governor>
+            <dependent idx="20">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="19">determination</governor>
+            <dependent idx="21">work</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="23">end</governor>
+            <dependent idx="22">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="21">work</governor>
+            <dependent idx="23">end</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">war</governor>
+            <dependent idx="24">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">end</governor>
+            <dependent idx="25">war</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="23">end</governor>
+            <dependent idx="26">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="23">end</governor>
+            <dependent idx="27">bring</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">troops</governor>
+            <dependent idx="28">U.S.</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">bring</governor>
+            <dependent idx="29">troops</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="27">bring</governor>
+            <dependent idx="30">home</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="partmod">
+            <governor idx="16">signaled</governor>
+            <dependent idx="1">Calling</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">conflict</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="4">there</governor>
+            <dependent idx="3">conflict</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">issue</governor>
+            <dependent idx="4">there</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">issue</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">issue</governor>
+            <dependent idx="6">ethical</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">Calling</governor>
+            <dependent idx="7">issue</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="7">issue</governor>
+            <dependent idx="8">facing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">facing</governor>
+            <dependent idx="9">Congress</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">people</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">people</governor>
+            <dependent idx="12">American</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="9">Congress</governor>
+            <dependent idx="13">people</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="16">signaled</governor>
+            <dependent idx="15">she</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="19">determination</governor>
+            <dependent idx="17">Democrat</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">signaled</governor>
+            <dependent idx="19">determination</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">work</governor>
+            <dependent idx="20">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="19">determination</governor>
+            <dependent idx="21">work</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="23">end</governor>
+            <dependent idx="22">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="21">work</governor>
+            <dependent idx="23">end</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">war</governor>
+            <dependent idx="24">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">end</governor>
+            <dependent idx="25">war</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="23">end</governor>
+            <dependent idx="27">bring</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">troops</governor>
+            <dependent idx="28">U.S.</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">bring</governor>
+            <dependent idx="29">troops</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="27">bring</governor>
+            <dependent idx="30">home</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="partmod">
+            <governor idx="16">signaled</governor>
+            <dependent idx="1">Calling</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">conflict</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="4">there</governor>
+            <dependent idx="3">conflict</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">issue</governor>
+            <dependent idx="4">there</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">issue</governor>
+            <dependent idx="5">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">issue</governor>
+            <dependent idx="6">ethical</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">Calling</governor>
+            <dependent idx="7">issue</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="7">issue</governor>
+            <dependent idx="8">facing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">facing</governor>
+            <dependent idx="9">Congress</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">people</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">people</governor>
+            <dependent idx="12">American</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">facing</governor>
+            <dependent idx="13">people</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="9">Congress</governor>
+            <dependent idx="13">people</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="16">signaled</governor>
+            <dependent idx="15">she</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="19">determination</governor>
+            <dependent idx="17">Democrat</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">signaled</governor>
+            <dependent idx="19">determination</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">work</governor>
+            <dependent idx="20">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="19">determination</governor>
+            <dependent idx="21">work</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="23">end</governor>
+            <dependent idx="22">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="21">work</governor>
+            <dependent idx="23">end</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="25">war</governor>
+            <dependent idx="24">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="23">end</governor>
+            <dependent idx="25">war</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="21">work</governor>
+            <dependent idx="27">bring</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="23">end</governor>
+            <dependent idx="27">bring</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">troops</governor>
+            <dependent idx="28">U.S.</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="27">bring</governor>
+            <dependent idx="29">troops</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="27">bring</governor>
+            <dependent idx="30">home</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

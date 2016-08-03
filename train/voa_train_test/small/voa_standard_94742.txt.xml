@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>In</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>her</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>remarks</word>
+            <lemma>remark</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>Congresswoman</word>
+            <lemma>Congresswoman</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>Pelosi</word>
+            <lemma>Pelosi</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="7">
+            <word>reiterates</word>
+            <lemma>reiterate</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>what</word>
+            <lemma>what</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>Democrats</word>
+            <lemma>Democrats</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="10">
+            <word>call</word>
+            <lemma>call</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>their</word>
+            <lemma>they</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>100-hour</word>
+            <lemma>100-hour</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>100.0</NormalizedNER>
+            <Timex tid="t1" type="DURATION">PT100H</Timex>
+          </token>
+          <token id="13">
+            <word>pledge</word>
+            <lemma>pledge</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN In) (NP (PRP$ her) (NNS remarks))) (, ,) (NP (NNP Congresswoman) (NNP Pelosi)) (VP (VBZ reiterates) (SBAR (WHNP (WP what)) (S (NP (NNPS Democrats)) (VP (VBP call) (NP (PRP$ their) (JJ 100-hour) (NN pledge)))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="prep">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="1">In</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="3">remarks</governor>
+            <dependent idx="2">her</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">In</governor>
+            <dependent idx="3">remarks</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">Pelosi</governor>
+            <dependent idx="5">Congresswoman</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="6">Pelosi</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">call</governor>
+            <dependent idx="8">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">call</governor>
+            <dependent idx="9">Democrats</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="10">call</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="13">pledge</governor>
+            <dependent idx="11">their</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">pledge</governor>
+            <dependent idx="12">100-hour</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">call</governor>
+            <dependent idx="13">pledge</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="poss">
+            <governor idx="3">remarks</governor>
+            <dependent idx="2">her</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="3">remarks</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">Pelosi</governor>
+            <dependent idx="5">Congresswoman</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="6">Pelosi</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">call</governor>
+            <dependent idx="8">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">call</governor>
+            <dependent idx="9">Democrats</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="10">call</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="13">pledge</governor>
+            <dependent idx="11">their</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">pledge</governor>
+            <dependent idx="12">100-hour</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">call</governor>
+            <dependent idx="13">pledge</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="poss">
+            <governor idx="3">remarks</governor>
+            <dependent idx="2">her</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="3">remarks</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">Pelosi</governor>
+            <dependent idx="5">Congresswoman</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="6">Pelosi</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">call</governor>
+            <dependent idx="8">what</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">call</governor>
+            <dependent idx="9">Democrats</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="7">reiterates</governor>
+            <dependent idx="10">call</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="13">pledge</governor>
+            <dependent idx="11">their</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">pledge</governor>
+            <dependent idx="12">100-hour</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">call</governor>
+            <dependent idx="13">pledge</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

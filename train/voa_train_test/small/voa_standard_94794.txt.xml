@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>On</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Republican</word>
+            <lemma>republican</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="4">
+            <word>side</word>
+            <lemma>side</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>Arizona</word>
+            <lemma>Arizona</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="7">
+            <word>Senator</word>
+            <lemma>Senator</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>John</word>
+            <lemma>John</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="9">
+            <word>McCain</word>
+            <lemma>McCain</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="10">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>setting</word>
+            <lemma>set</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>up</word>
+            <lemma>up</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>66</CharacterOffsetEnd>
+            <POS>RP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>committee</word>
+            <lemma>committee</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>explore</word>
+            <lemma>explore</lemma>
+            <CharacterOffsetBegin>82</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>presidential</word>
+            <lemma>presidential</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>bid</word>
+            <lemma>bid</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>two</word>
+            <lemma>two</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P2Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="21">
+            <word>years</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>113</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P2Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="22">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>123</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P2Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="23">
+            <word>now</word>
+            <lemma>now</lemma>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P2Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="24">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>former</word>
+            <lemma>former</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>140</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>New</word>
+            <lemma>New</lemma>
+            <CharacterOffsetBegin>141</CharacterOffsetBegin>
+            <CharacterOffsetEnd>144</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="28">
+            <word>York</word>
+            <lemma>York</lemma>
+            <CharacterOffsetBegin>145</CharacterOffsetBegin>
+            <CharacterOffsetEnd>149</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="29">
+            <word>City</word>
+            <lemma>City</lemma>
+            <CharacterOffsetBegin>150</CharacterOffsetBegin>
+            <CharacterOffsetEnd>154</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="30">
+            <word>Mayor</word>
+            <lemma>Mayor</lemma>
+            <CharacterOffsetBegin>155</CharacterOffsetBegin>
+            <CharacterOffsetEnd>160</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>Rudolph</word>
+            <lemma>Rudolph</lemma>
+            <CharacterOffsetBegin>161</CharacterOffsetBegin>
+            <CharacterOffsetEnd>168</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="32">
+            <word>Giuliani</word>
+            <lemma>Giuliani</lemma>
+            <CharacterOffsetBegin>169</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="33">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>178</CharacterOffsetBegin>
+            <CharacterOffsetEnd>179</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN On) (NP (DT the) (JJ Republican) (NN side))) (, ,) (NP (NNP Arizona) (NNP Senator) (NNP John) (NNP McCain)) (VP (VBZ is) (VP (VBG setting) (PRT (RP up)) (NP (DT a) (NN committee) (S (VP (TO to) (VP (VB explore) (NP (DT a) (JJ presidential) (NN bid)) (PP (NP (CD two) (NNS years)) (IN from) (NP (RB now))) (SBAR (RB as) (SINV (VBZ is) (NP (JJ former) (NNP New) (NNP York) (NNP City) (NNP Mayor) (NNP Rudolph) (NNP Giuliani)))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="prep">
+            <governor idx="11">setting</governor>
+            <dependent idx="1">On</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">side</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">side</governor>
+            <dependent idx="3">Republican</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">On</governor>
+            <dependent idx="4">side</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="6">Arizona</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="7">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="8">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">setting</governor>
+            <dependent idx="9">McCain</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="11">setting</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="11">setting</governor>
+            <dependent idx="12">up</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">committee</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">setting</governor>
+            <dependent idx="14">committee</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="16">explore</governor>
+            <dependent idx="15">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="14">committee</governor>
+            <dependent idx="16">explore</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">bid</governor>
+            <dependent idx="17">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">bid</governor>
+            <dependent idx="18">presidential</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">explore</governor>
+            <dependent idx="19">bid</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">years</governor>
+            <dependent idx="20">two</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="22">from</governor>
+            <dependent idx="21">years</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="16">explore</governor>
+            <dependent idx="22">from</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="22">from</governor>
+            <dependent idx="23">now</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="24">as</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="25">is</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="26">former</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="27">New</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="28">York</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="29">City</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="30">Mayor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="31">Rudolph</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">explore</governor>
+            <dependent idx="32">Giuliani</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="4">side</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">side</governor>
+            <dependent idx="3">Republican</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="11">setting</governor>
+            <dependent idx="4">side</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="6">Arizona</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="7">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="8">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">setting</governor>
+            <dependent idx="9">McCain</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="11">setting</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="11">setting</governor>
+            <dependent idx="12">up</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">committee</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">setting</governor>
+            <dependent idx="14">committee</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="16">explore</governor>
+            <dependent idx="15">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="14">committee</governor>
+            <dependent idx="16">explore</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">bid</governor>
+            <dependent idx="17">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">bid</governor>
+            <dependent idx="18">presidential</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">explore</governor>
+            <dependent idx="19">bid</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">years</governor>
+            <dependent idx="20">two</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="22">from</governor>
+            <dependent idx="21">years</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="16">explore</governor>
+            <dependent idx="22">from</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="22">from</governor>
+            <dependent idx="23">now</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="24">as</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="25">is</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="26">former</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="27">New</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="28">York</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="29">City</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="30">Mayor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="31">Rudolph</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">explore</governor>
+            <dependent idx="32">Giuliani</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="4">side</governor>
+            <dependent idx="2">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">side</governor>
+            <dependent idx="3">Republican</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="11">setting</governor>
+            <dependent idx="4">side</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="6">Arizona</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="7">Senator</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">McCain</governor>
+            <dependent idx="8">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">setting</governor>
+            <dependent idx="9">McCain</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="11">setting</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+          <dep type="prt">
+            <governor idx="11">setting</governor>
+            <dependent idx="12">up</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">committee</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">setting</governor>
+            <dependent idx="14">committee</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="16">explore</governor>
+            <dependent idx="15">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="14">committee</governor>
+            <dependent idx="16">explore</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">bid</governor>
+            <dependent idx="17">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="19">bid</governor>
+            <dependent idx="18">presidential</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="16">explore</governor>
+            <dependent idx="19">bid</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">years</governor>
+            <dependent idx="20">two</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="22">from</governor>
+            <dependent idx="21">years</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="16">explore</governor>
+            <dependent idx="22">from</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="22">from</governor>
+            <dependent idx="23">now</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="24">as</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="25">is</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="26">former</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="27">New</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="28">York</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="29">City</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="30">Mayor</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="32">Giuliani</governor>
+            <dependent idx="31">Rudolph</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="16">explore</governor>
+            <dependent idx="32">Giuliani</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

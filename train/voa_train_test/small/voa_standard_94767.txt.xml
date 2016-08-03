@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>In</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>2004</word>
+            <lemma>2004</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2004</NormalizedNER>
+            <Timex tid="t1" type="DATE">2004</Timex>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>three</word>
+            <lemma>three</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t2" type="DURATION">P3Y</Timex>
+          </token>
+          <token id="5">
+            <word>years</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>0.0</NormalizedNER>
+            <Timex tid="t2" type="DURATION">P3Y</Timex>
+          </token>
+          <token id="6">
+            <word>after</word>
+            <lemma>after</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Taleban</word>
+            <lemma>Taleban</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="9">
+            <word>regime</word>
+            <lemma>regime</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>was</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>toppled</word>
+            <lemma>topple</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>Afghan</word>
+            <lemma>Afghan</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="14">
+            <word>President</word>
+            <lemma>President</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>Hamid</word>
+            <lemma>Hamid</lemma>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="16">
+            <word>Karzai</word>
+            <lemma>Karzai</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="17">
+            <word>told</word>
+            <lemma>tell</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>97</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>joint</word>
+            <lemma>joint</lemma>
+            <CharacterOffsetBegin>98</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>meeting</word>
+            <lemma>meeting</lemma>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>U.S.</word>
+            <lemma>U.S.</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>123</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="24">
+            <word>Congress</word>
+            <lemma>Congress</lemma>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>132</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="25">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>doors</word>
+            <lemma>door</lemma>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>142</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>143</CharacterOffsetBegin>
+            <CharacterOffsetEnd>145</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>Afghanistan</word>
+            <lemma>Afghanistan</lemma>
+            <CharacterOffsetBegin>146</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="29">
+            <word>were</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>158</CharacterOffsetBegin>
+            <CharacterOffsetEnd>162</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>open</word>
+            <lemma>open</lemma>
+            <CharacterOffsetBegin>163</CharacterOffsetBegin>
+            <CharacterOffsetEnd>167</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>168</CharacterOffsetBegin>
+            <CharacterOffsetEnd>170</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>investors</word>
+            <lemma>investor</lemma>
+            <CharacterOffsetBegin>171</CharacterOffsetBegin>
+            <CharacterOffsetEnd>180</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>181</CharacterOffsetBegin>
+            <CharacterOffsetEnd>182</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN In) (NP (CD 2004))) (, ,) (SBAR (NP (CD three) (NNS years)) (IN after) (S (NP (DT the) (NNP Taleban) (NN regime)) (VP (VBD was) (VP (VBN toppled))))) (, ,) (NP (NNP Afghan) (NNP President) (NNP Hamid) (NNP Karzai)) (VP (VBD told) (NP (NP (DT a) (JJ joint) (NN meeting)) (PP (IN of) (NP (DT the) (NNP U.S.) (NNP Congress))) (SBAR (S (NP (NP (DT the) (NNS doors)) (PP (TO to) (NP (NNP Afghanistan)))) (VP (VBD were) (ADJP (JJ open) (PP (TO to) (NP (NNS investors))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="prep">
+            <governor idx="17">told</governor>
+            <dependent idx="1">In</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="1">In</governor>
+            <dependent idx="2">2004</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="5">years</governor>
+            <dependent idx="4">three</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">toppled</governor>
+            <dependent idx="5">years</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">toppled</governor>
+            <dependent idx="6">after</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">regime</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">regime</governor>
+            <dependent idx="8">Taleban</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">toppled</governor>
+            <dependent idx="9">regime</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">toppled</governor>
+            <dependent idx="10">was</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">told</governor>
+            <dependent idx="11">toppled</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="13">Afghan</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="14">President</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="15">Hamid</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">told</governor>
+            <dependent idx="16">Karzai</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">meeting</governor>
+            <dependent idx="18">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="20">meeting</governor>
+            <dependent idx="19">joint</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">told</governor>
+            <dependent idx="20">meeting</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="20">meeting</governor>
+            <dependent idx="21">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">Congress</governor>
+            <dependent idx="22">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">Congress</governor>
+            <dependent idx="23">U.S.</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="21">of</governor>
+            <dependent idx="24">Congress</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">doors</governor>
+            <dependent idx="25">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">open</governor>
+            <dependent idx="26">doors</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="26">doors</governor>
+            <dependent idx="27">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="27">to</governor>
+            <dependent idx="28">Afghanistan</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="30">open</governor>
+            <dependent idx="29">were</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="20">meeting</governor>
+            <dependent idx="30">open</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="30">open</governor>
+            <dependent idx="31">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="31">to</governor>
+            <dependent idx="32">investors</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="prep_in">
+            <governor idx="17">told</governor>
+            <dependent idx="2">2004</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="5">years</governor>
+            <dependent idx="4">three</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">toppled</governor>
+            <dependent idx="5">years</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">toppled</governor>
+            <dependent idx="6">after</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">regime</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">regime</governor>
+            <dependent idx="8">Taleban</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">toppled</governor>
+            <dependent idx="9">regime</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">toppled</governor>
+            <dependent idx="10">was</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">told</governor>
+            <dependent idx="11">toppled</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="13">Afghan</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="14">President</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="15">Hamid</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">told</governor>
+            <dependent idx="16">Karzai</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">meeting</governor>
+            <dependent idx="18">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="20">meeting</governor>
+            <dependent idx="19">joint</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">told</governor>
+            <dependent idx="20">meeting</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">Congress</governor>
+            <dependent idx="22">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">Congress</governor>
+            <dependent idx="23">U.S.</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="20">meeting</governor>
+            <dependent idx="24">Congress</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">doors</governor>
+            <dependent idx="25">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">open</governor>
+            <dependent idx="26">doors</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="26">doors</governor>
+            <dependent idx="28">Afghanistan</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="30">open</governor>
+            <dependent idx="29">were</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="20">meeting</governor>
+            <dependent idx="30">open</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="30">open</governor>
+            <dependent idx="32">investors</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="prep_in">
+            <governor idx="17">told</governor>
+            <dependent idx="2">2004</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="5">years</governor>
+            <dependent idx="4">three</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">toppled</governor>
+            <dependent idx="5">years</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">toppled</governor>
+            <dependent idx="6">after</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">regime</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">regime</governor>
+            <dependent idx="8">Taleban</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="11">toppled</governor>
+            <dependent idx="9">regime</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="11">toppled</governor>
+            <dependent idx="10">was</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="17">told</governor>
+            <dependent idx="11">toppled</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="13">Afghan</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="14">President</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Karzai</governor>
+            <dependent idx="15">Hamid</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">told</governor>
+            <dependent idx="16">Karzai</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">meeting</governor>
+            <dependent idx="18">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="20">meeting</governor>
+            <dependent idx="19">joint</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">told</governor>
+            <dependent idx="20">meeting</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">Congress</governor>
+            <dependent idx="22">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">Congress</governor>
+            <dependent idx="23">U.S.</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="20">meeting</governor>
+            <dependent idx="24">Congress</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">doors</governor>
+            <dependent idx="25">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="30">open</governor>
+            <dependent idx="26">doors</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="26">doors</governor>
+            <dependent idx="28">Afghanistan</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="30">open</governor>
+            <dependent idx="29">were</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="20">meeting</governor>
+            <dependent idx="30">open</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="30">open</governor>
+            <dependent idx="32">investors</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

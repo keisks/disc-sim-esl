@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>John</word>
+            <lemma>John</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="2">
+            <word>Murtha</word>
+            <lemma>Murtha</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>74-year-old</word>
+            <lemma>74-year-old</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DURATION</NER>
+            <NormalizedNER>74.0</NormalizedNER>
+            <Timex tid="t1" type="DURATION">P74Y</Timex>
+          </token>
+          <token id="6">
+            <word>Democrat</word>
+            <lemma>Democrat</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="7">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Pennsylvania</word>
+            <lemma>Pennsylvania</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="9">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>proponent</word>
+            <lemma>proponent</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>early</word>
+            <lemma>early</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>U.S.</word>
+            <lemma>U.S.</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="15">
+            <word>troop</word>
+            <lemma>troop</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>withdrawal</word>
+            <lemma>withdrawal</lemma>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>Iraq</word>
+            <lemma>Iraq</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>114</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="19">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>115</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>had</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>challenged</word>
+            <lemma>challenge</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>131</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>Maryland</word>
+            <lemma>Maryland</lemma>
+            <CharacterOffsetBegin>132</CharacterOffsetBegin>
+            <CharacterOffsetEnd>140</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="23">
+            <word>Democrat</word>
+            <lemma>Democrat</lemma>
+            <CharacterOffsetBegin>141</CharacterOffsetBegin>
+            <CharacterOffsetEnd>149</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="24">
+            <word>Steny</word>
+            <lemma>Steny</lemma>
+            <CharacterOffsetBegin>150</CharacterOffsetBegin>
+            <CharacterOffsetEnd>155</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="25">
+            <word>Hoyer</word>
+            <lemma>Hoyer</lemma>
+            <CharacterOffsetBegin>156</CharacterOffsetBegin>
+            <CharacterOffsetEnd>161</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="26">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>162</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>169</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>post</word>
+            <lemma>post</lemma>
+            <CharacterOffsetBegin>170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>174</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>175</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>Majority</word>
+            <lemma>Majority</lemma>
+            <CharacterOffsetBegin>178</CharacterOffsetBegin>
+            <CharacterOffsetEnd>186</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>Leader</word>
+            <lemma>Leader</lemma>
+            <CharacterOffsetBegin>187</CharacterOffsetBegin>
+            <CharacterOffsetEnd>193</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>194</CharacterOffsetBegin>
+            <CharacterOffsetEnd>195</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NNP John) (NNP Murtha)) (, ,) (NP (NP (NP (DT the) (JJ 74-year-old) (NNP Democrat)) (PP (IN from) (NP (NNP Pennsylvania)))) (CC and) (NP (NP (NN proponent)) (PP (IN of) (NP (NP (DT an) (JJ early) (NNP U.S.) (NN troop) (NN withdrawal)) (PP (IN from) (NP (NNP Iraq))))))) (, ,)) (VP (VBD had) (VP (VBN challenged) (NP (NP (NNP Maryland) (NNP Democrat) (NNP Steny) (NNP Hoyer)) (PP (IN for) (NP (NP (DT the) (NN post)) (PP (IN of) (NP (NNP Majority) (NNP Leader)))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nn">
+            <governor idx="2">Murtha</governor>
+            <dependent idx="1">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">challenged</governor>
+            <dependent idx="2">Murtha</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="5">74-year-old</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">Murtha</governor>
+            <dependent idx="6">Democrat</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="7">from</governor>
+            <dependent idx="8">Pennsylvania</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="9">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="10">proponent</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">proponent</governor>
+            <dependent idx="11">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="12">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="13">early</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="14">U.S.</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="15">troop</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">of</governor>
+            <dependent idx="16">withdrawal</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="17">from</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="17">from</governor>
+            <dependent idx="18">Iraq</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">challenged</governor>
+            <dependent idx="20">had</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="22">Maryland</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="23">Democrat</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="24">Steny</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">challenged</governor>
+            <dependent idx="25">Hoyer</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="26">for</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">post</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="26">for</governor>
+            <dependent idx="28">post</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="28">post</governor>
+            <dependent idx="29">of</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Leader</governor>
+            <dependent idx="30">Majority</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="29">of</governor>
+            <dependent idx="31">Leader</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nn">
+            <governor idx="2">Murtha</governor>
+            <dependent idx="1">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">challenged</governor>
+            <dependent idx="2">Murtha</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="5">74-year-old</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">Murtha</governor>
+            <dependent idx="6">Democrat</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="8">Pennsylvania</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="10">proponent</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="12">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="13">early</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="14">U.S.</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="15">troop</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="10">proponent</governor>
+            <dependent idx="16">withdrawal</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="18">Iraq</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">challenged</governor>
+            <dependent idx="20">had</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="22">Maryland</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="23">Democrat</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="24">Steny</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">challenged</governor>
+            <dependent idx="25">Hoyer</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">post</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="28">post</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Leader</governor>
+            <dependent idx="30">Majority</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="28">post</governor>
+            <dependent idx="31">Leader</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nn">
+            <governor idx="2">Murtha</governor>
+            <dependent idx="1">John</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">challenged</governor>
+            <dependent idx="2">Murtha</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="5">74-year-old</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">Murtha</governor>
+            <dependent idx="6">Democrat</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="8">Pennsylvania</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="2">Murtha</governor>
+            <dependent idx="10">proponent</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="6">Democrat</governor>
+            <dependent idx="10">proponent</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="12">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="13">early</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="14">U.S.</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="15">troop</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="10">proponent</governor>
+            <dependent idx="16">withdrawal</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="16">withdrawal</governor>
+            <dependent idx="18">Iraq</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">challenged</governor>
+            <dependent idx="20">had</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="22">Maryland</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="23">Democrat</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="24">Steny</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">challenged</governor>
+            <dependent idx="25">Hoyer</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">post</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="25">Hoyer</governor>
+            <dependent idx="28">post</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">Leader</governor>
+            <dependent idx="30">Majority</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="28">post</governor>
+            <dependent idx="31">Leader</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

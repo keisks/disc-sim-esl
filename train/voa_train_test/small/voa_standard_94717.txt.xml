@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>census</word>
+            <lemma>census</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>results</word>
+            <lemma>result</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>expected</word>
+            <lemma>expect</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>put</word>
+            <lemma>put</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>rest</word>
+            <lemma>rest</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>speculations</word>
+            <lemma>speculation</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>about</word>
+            <lemma>about</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>Nigeria</word>
+            <lemma>Nigeria</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="13">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>population</word>
+            <lemma>population</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>87</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>88</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NN census) (NNS results)) (VP (VBP are) (VP (VBN expected) (S (VP (TO to) (VP (VB put) (S (VP (TO to) (VP (VB rest) (NP (NNS speculations)) (PP (IN about) (NP (NP (NNP Nigeria) (POS 's)) (NN population))))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="det">
+            <governor idx="3">results</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">results</governor>
+            <dependent idx="2">census</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="5">expected</governor>
+            <dependent idx="3">results</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="5">expected</governor>
+            <dependent idx="4">are</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">put</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">expected</governor>
+            <dependent idx="7">put</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">rest</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="7">put</governor>
+            <dependent idx="9">rest</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">rest</governor>
+            <dependent idx="10">speculations</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">rest</governor>
+            <dependent idx="11">about</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="14">population</governor>
+            <dependent idx="12">Nigeria</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="12">Nigeria</governor>
+            <dependent idx="13">'s</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">about</governor>
+            <dependent idx="14">population</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="3">results</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">results</governor>
+            <dependent idx="2">census</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="5">expected</governor>
+            <dependent idx="3">results</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="5">expected</governor>
+            <dependent idx="4">are</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">put</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">expected</governor>
+            <dependent idx="7">put</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">rest</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="7">put</governor>
+            <dependent idx="9">rest</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">rest</governor>
+            <dependent idx="10">speculations</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="14">population</governor>
+            <dependent idx="12">Nigeria</dependent>
+          </dep>
+          <dep type="prep_about">
+            <governor idx="9">rest</governor>
+            <dependent idx="14">population</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="3">results</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">results</governor>
+            <dependent idx="2">census</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="5">expected</governor>
+            <dependent idx="3">results</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="5">expected</governor>
+            <dependent idx="4">are</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="7">put</governor>
+            <dependent idx="6">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">expected</governor>
+            <dependent idx="7">put</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="9">rest</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="7">put</governor>
+            <dependent idx="9">rest</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="9">rest</governor>
+            <dependent idx="10">speculations</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="14">population</governor>
+            <dependent idx="12">Nigeria</dependent>
+          </dep>
+          <dep type="prep_about">
+            <governor idx="9">rest</governor>
+            <dependent idx="14">population</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Regarded</word>
+            <lemma>regard</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Africa</word>
+            <lemma>Africa</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="4">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>most</word>
+            <lemma>most</lemma>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>RBS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>populous</word>
+            <lemma>populous</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>nation</word>
+            <lemma>nation</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>132</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>relies</word>
+            <lemma>rely</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>144</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>145</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>estimated</word>
+            <lemma>estimate</lemma>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>figures</word>
+            <lemma>figure</lemma>
+            <CharacterOffsetBegin>158</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>168</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>determine</word>
+            <lemma>determine</lemma>
+            <CharacterOffsetBegin>169</CharacterOffsetBegin>
+            <CharacterOffsetEnd>178</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>its</word>
+            <lemma>its</lemma>
+            <CharacterOffsetBegin>179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>182</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>actual</word>
+            <lemma>actual</lemma>
+            <CharacterOffsetBegin>183</CharacterOffsetBegin>
+            <CharacterOffsetEnd>189</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>population</word>
+            <lemma>population</lemma>
+            <CharacterOffsetBegin>190</CharacterOffsetBegin>
+            <CharacterOffsetEnd>200</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>201</CharacterOffsetBegin>
+            <CharacterOffsetEnd>202</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (VP (VBN Regarded) (PP (IN as) (NP (NP (NNP Africa) (POS 's)) (ADJP (RBS most) (JJ populous)) (NN nation))))) (, ,) (NP (PRP it)) (VP (VBZ relies) (PP (IN on) (NP (VBN estimated) (NNS figures) (S (VP (TO to) (VP (VB determine) (NP (PRP$ its) (JJ actual) (NN population)))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="partmod">
+            <governor idx="10">relies</governor>
+            <dependent idx="1">Regarded</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Regarded</governor>
+            <dependent idx="2">as</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">nation</governor>
+            <dependent idx="3">Africa</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="3">Africa</governor>
+            <dependent idx="4">'s</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">populous</governor>
+            <dependent idx="5">most</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">nation</governor>
+            <dependent idx="6">populous</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">as</governor>
+            <dependent idx="7">nation</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">relies</governor>
+            <dependent idx="9">it</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">relies</governor>
+            <dependent idx="11">on</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">figures</governor>
+            <dependent idx="12">estimated</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">on</governor>
+            <dependent idx="13">figures</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">determine</governor>
+            <dependent idx="14">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="13">figures</governor>
+            <dependent idx="15">determine</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">population</governor>
+            <dependent idx="16">its</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">population</governor>
+            <dependent idx="17">actual</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">determine</governor>
+            <dependent idx="18">population</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="partmod">
+            <governor idx="10">relies</governor>
+            <dependent idx="1">Regarded</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">nation</governor>
+            <dependent idx="3">Africa</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">populous</governor>
+            <dependent idx="5">most</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">nation</governor>
+            <dependent idx="6">populous</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="1">Regarded</governor>
+            <dependent idx="7">nation</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">relies</governor>
+            <dependent idx="9">it</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">figures</governor>
+            <dependent idx="12">estimated</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="10">relies</governor>
+            <dependent idx="13">figures</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">determine</governor>
+            <dependent idx="14">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="13">figures</governor>
+            <dependent idx="15">determine</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">population</governor>
+            <dependent idx="16">its</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">population</governor>
+            <dependent idx="17">actual</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">determine</governor>
+            <dependent idx="18">population</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="partmod">
+            <governor idx="10">relies</governor>
+            <dependent idx="1">Regarded</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">nation</governor>
+            <dependent idx="3">Africa</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">populous</governor>
+            <dependent idx="5">most</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">nation</governor>
+            <dependent idx="6">populous</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="1">Regarded</governor>
+            <dependent idx="7">nation</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">relies</governor>
+            <dependent idx="9">it</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">figures</governor>
+            <dependent idx="12">estimated</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="10">relies</governor>
+            <dependent idx="13">figures</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">determine</governor>
+            <dependent idx="14">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="13">figures</governor>
+            <dependent idx="15">determine</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="18">population</governor>
+            <dependent idx="16">its</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">population</governor>
+            <dependent idx="17">actual</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">determine</governor>
+            <dependent idx="18">population</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+      <sentence id="3">
+        <tokens>
+          <token id="1">
+            <word>Estimates</word>
+            <lemma>estimate</lemma>
+            <CharacterOffsetBegin>203</CharacterOffsetBegin>
+            <CharacterOffsetEnd>212</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>213</CharacterOffsetBegin>
+            <CharacterOffsetEnd>215</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Nigeria</word>
+            <lemma>Nigeria</lemma>
+            <CharacterOffsetBegin>216</CharacterOffsetBegin>
+            <CharacterOffsetEnd>223</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="4">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>224</CharacterOffsetBegin>
+            <CharacterOffsetEnd>226</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>population</word>
+            <lemma>population</lemma>
+            <CharacterOffsetBegin>227</CharacterOffsetBegin>
+            <CharacterOffsetEnd>237</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>range</word>
+            <lemma>range</lemma>
+            <CharacterOffsetBegin>238</CharacterOffsetBegin>
+            <CharacterOffsetEnd>243</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>244</CharacterOffsetBegin>
+            <CharacterOffsetEnd>248</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>120</word>
+            <lemma>120</lemma>
+            <CharacterOffsetBegin>249</CharacterOffsetBegin>
+            <CharacterOffsetEnd>252</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.2E8</NormalizedNER>
+          </token>
+          <token id="9">
+            <word>million</word>
+            <lemma>million</lemma>
+            <CharacterOffsetBegin>253</CharacterOffsetBegin>
+            <CharacterOffsetEnd>260</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.2E8</NormalizedNER>
+          </token>
+          <token id="10">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>261</CharacterOffsetBegin>
+            <CharacterOffsetEnd>263</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>160</word>
+            <lemma>160</lemma>
+            <CharacterOffsetBegin>264</CharacterOffsetBegin>
+            <CharacterOffsetEnd>267</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.6E8</NormalizedNER>
+          </token>
+          <token id="12">
+            <word>million</word>
+            <lemma>million</lemma>
+            <CharacterOffsetBegin>268</CharacterOffsetBegin>
+            <CharacterOffsetEnd>275</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.6E8</NormalizedNER>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>276</CharacterOffsetBegin>
+            <CharacterOffsetEnd>277</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (NP (NP (NNS Estimates)) (PP (IN of) (NP (NP (NNP Nigeria) (POS 's)) (NN population) (NN range))) (PP (IN from) (NP (QP (CD 120) (CD million) (TO to) (CD 160) (CD million)))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="prep">
+            <governor idx="1">Estimates</governor>
+            <dependent idx="2">of</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="6">range</governor>
+            <dependent idx="3">Nigeria</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="3">Nigeria</governor>
+            <dependent idx="4">'s</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">range</governor>
+            <dependent idx="5">population</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">of</governor>
+            <dependent idx="6">range</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Estimates</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="8">120</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="9">million</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">million</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="11">160</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="7">from</governor>
+            <dependent idx="12">million</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="poss">
+            <governor idx="6">range</governor>
+            <dependent idx="3">Nigeria</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">range</governor>
+            <dependent idx="5">population</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="1">Estimates</governor>
+            <dependent idx="6">range</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="8">120</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="9">million</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">million</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="11">160</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="1">Estimates</governor>
+            <dependent idx="12">million</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="poss">
+            <governor idx="6">range</governor>
+            <dependent idx="3">Nigeria</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="6">range</governor>
+            <dependent idx="5">population</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="1">Estimates</governor>
+            <dependent idx="6">range</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="8">120</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="9">million</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">million</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="number">
+            <governor idx="12">million</governor>
+            <dependent idx="11">160</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="1">Estimates</governor>
+            <dependent idx="12">million</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

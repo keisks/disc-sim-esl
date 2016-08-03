@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Congresswoman</word>
+            <lemma>Congresswoman</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>Pelosi</word>
+            <lemma>Pelosi</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>who</word>
+            <lemma>who</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>had</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>worked</word>
+            <lemma>work</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>well</word>
+            <lemma>well</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>Hoyer</word>
+            <lemma>Hoyer</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="10">
+            <word>but</word>
+            <lemma>but</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>also</word>
+            <lemma>also</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>times</word>
+            <lemma>time</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>had</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>her</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>differences</word>
+            <lemma>difference</lemma>
+            <CharacterOffsetBegin>80</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>him</word>
+            <lemma>he</lemma>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>supported</word>
+            <lemma>support</lemma>
+            <CharacterOffsetBegin>103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>Murtha</word>
+            <lemma>Murtha</lemma>
+            <CharacterOffsetBegin>113</CharacterOffsetBegin>
+            <CharacterOffsetEnd>119</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="22">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>121</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NNP Congresswoman) (NNP Pelosi)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN worked) (PP (RB well) (PP (IN with) (NP (NNP Hoyer))) (CC but) (PP (ADVP (RB also)) (IN at) (NP (NP (NNS times)) (VP (VBD had) (NP (PRP$ her) (NNS differences)) (PP (IN with) (NP (PRP him))))))))))) (, ,)) (VP (VBD supported) (NP (NNP Murtha))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nn">
+            <governor idx="2">Pelosi</governor>
+            <dependent idx="1">Congresswoman</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">supported</governor>
+            <dependent idx="2">Pelosi</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">worked</governor>
+            <dependent idx="4">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">worked</governor>
+            <dependent idx="5">had</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Pelosi</governor>
+            <dependent idx="6">worked</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">with</governor>
+            <dependent idx="7">well</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="6">worked</governor>
+            <dependent idx="8">with</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">with</governor>
+            <dependent idx="9">Hoyer</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="8">with</governor>
+            <dependent idx="10">but</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">at</governor>
+            <dependent idx="11">also</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="8">with</governor>
+            <dependent idx="12">at</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">at</governor>
+            <dependent idx="13">times</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="13">times</governor>
+            <dependent idx="14">had</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="16">differences</governor>
+            <dependent idx="15">her</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">had</governor>
+            <dependent idx="16">differences</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="14">had</governor>
+            <dependent idx="17">with</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="17">with</governor>
+            <dependent idx="18">him</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">supported</governor>
+            <dependent idx="21">Murtha</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nn">
+            <governor idx="2">Pelosi</governor>
+            <dependent idx="1">Congresswoman</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">supported</governor>
+            <dependent idx="2">Pelosi</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">worked</governor>
+            <dependent idx="4">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">worked</governor>
+            <dependent idx="5">had</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Pelosi</governor>
+            <dependent idx="6">worked</dependent>
+          </dep>
+          <dep type="conj_but">
+            <governor idx="6">worked</governor>
+            <dependent idx="6">worked</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">worked</governor>
+            <dependent idx="7">well</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="6">worked</governor>
+            <dependent idx="9">Hoyer</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">worked</governor>
+            <dependent idx="11">also</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="6">worked</governor>
+            <dependent idx="13">times</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="13">times</governor>
+            <dependent idx="14">had</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="16">differences</governor>
+            <dependent idx="15">her</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">had</governor>
+            <dependent idx="16">differences</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="14">had</governor>
+            <dependent idx="18">him</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">supported</governor>
+            <dependent idx="21">Murtha</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nn">
+            <governor idx="2">Pelosi</governor>
+            <dependent idx="1">Congresswoman</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">supported</governor>
+            <dependent idx="2">Pelosi</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">worked</governor>
+            <dependent idx="4">who</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">worked</governor>
+            <dependent idx="4">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">worked</governor>
+            <dependent idx="5">had</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Pelosi</governor>
+            <dependent idx="6">worked</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">Pelosi</governor>
+            <dependent idx="6">worked</dependent>
+          </dep>
+          <dep type="conj_but">
+            <governor idx="6">worked</governor>
+            <dependent idx="6">worked</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">worked</governor>
+            <dependent idx="7">well</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="6">worked</governor>
+            <dependent idx="9">Hoyer</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">worked</governor>
+            <dependent idx="11">also</dependent>
+          </dep>
+          <dep type="prep_at">
+            <governor idx="6">worked</governor>
+            <dependent idx="13">times</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="13">times</governor>
+            <dependent idx="14">had</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="16">differences</governor>
+            <dependent idx="15">her</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">had</governor>
+            <dependent idx="16">differences</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="14">had</governor>
+            <dependent idx="18">him</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="20">supported</governor>
+            <dependent idx="21">Murtha</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

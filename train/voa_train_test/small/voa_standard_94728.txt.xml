@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>''</word>
+            <lemma>''</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>''</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>It</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>course</word>
+            <lemma>course</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>growing</word>
+            <lemma>grow</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>rapidly</word>
+            <lemma>rapidly</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>developed</word>
+            <lemma>developed</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>countries</word>
+            <lemma>country</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>while</word>
+            <lemma>while</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>developing</word>
+            <lemma>develop</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>78</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>countries</word>
+            <lemma>country</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>dial-up</word>
+            <lemma>dial-up</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>101</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>still</word>
+            <lemma>still</lemma>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>107</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>prevalent</word>
+            <lemma>prevalent</lemma>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>117</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>118</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>many</word>
+            <lemma>many</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>places</word>
+            <lemma>place</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>132</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>''</word>
+            <lemma>''</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>136</CharacterOffsetEnd>
+            <POS>''</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>she</word>
+            <lemma>she</lemma>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>140</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>said</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>141</CharacterOffsetBegin>
+            <CharacterOffsetEnd>145</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>146</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S ('' '') (S (NP (PRP It)) (VP (VBZ is) (PP (IN of) (NP (NP (NN course)) (VP (VBG growing) (ADVP (RB rapidly)) (PP (IN in) (NP (JJ developed) (NNS countries)))))) (, ,) (SBAR (IN while) (S (PP (IN in) (NP (VBG developing) (NNS countries))) (, ,) (NP (NN dial-up)) (VP (VBZ is) (ADVP (RB still)) (ADJP (JJ prevalent) (PP (IN in) (NP (JJ many) (NNS places))))))))) (, ,) ('' '') (NP (PRP she)) (VP (VBD said)) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nsubj">
+            <governor idx="3">is</governor>
+            <dependent idx="2">It</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="27">said</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="3">is</governor>
+            <dependent idx="4">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">of</governor>
+            <dependent idx="5">course</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="5">course</governor>
+            <dependent idx="6">growing</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">growing</governor>
+            <dependent idx="7">rapidly</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="6">growing</governor>
+            <dependent idx="8">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">countries</governor>
+            <dependent idx="9">developed</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">in</governor>
+            <dependent idx="10">countries</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="12">while</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="13">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">countries</governor>
+            <dependent idx="14">developing</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="13">in</governor>
+            <dependent idx="15">countries</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="17">dial-up</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="18">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="19">still</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">is</governor>
+            <dependent idx="20">prevalent</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="21">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">places</governor>
+            <dependent idx="22">many</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="21">in</governor>
+            <dependent idx="23">places</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="27">said</governor>
+            <dependent idx="26">she</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nsubj">
+            <governor idx="3">is</governor>
+            <dependent idx="2">It</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="27">said</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="3">is</governor>
+            <dependent idx="5">course</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="5">course</governor>
+            <dependent idx="6">growing</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">growing</governor>
+            <dependent idx="7">rapidly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">countries</governor>
+            <dependent idx="9">developed</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="6">growing</governor>
+            <dependent idx="10">countries</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="12">while</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">countries</governor>
+            <dependent idx="14">developing</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="15">countries</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="17">dial-up</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="18">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="19">still</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">is</governor>
+            <dependent idx="20">prevalent</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">places</governor>
+            <dependent idx="22">many</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="23">places</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="27">said</governor>
+            <dependent idx="26">she</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nsubj">
+            <governor idx="3">is</governor>
+            <dependent idx="2">It</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="27">said</governor>
+            <dependent idx="3">is</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="3">is</governor>
+            <dependent idx="5">course</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="5">course</governor>
+            <dependent idx="6">growing</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">growing</governor>
+            <dependent idx="7">rapidly</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">countries</governor>
+            <dependent idx="9">developed</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="6">growing</governor>
+            <dependent idx="10">countries</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="12">while</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">countries</governor>
+            <dependent idx="14">developing</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="15">countries</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="17">dial-up</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="18">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="19">still</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">is</governor>
+            <dependent idx="20">prevalent</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="23">places</governor>
+            <dependent idx="22">many</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="20">prevalent</governor>
+            <dependent idx="23">places</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="27">said</governor>
+            <dependent idx="26">she</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

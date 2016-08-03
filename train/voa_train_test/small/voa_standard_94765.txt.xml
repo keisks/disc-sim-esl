@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>band</word>
+            <lemma>band</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>continues</word>
+            <lemma>continue</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>wow</word>
+            <lemma>wow</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>audiences</word>
+            <lemma>audience</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>its</word>
+            <lemma>its</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>energy</word>
+            <lemma>energy</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>style</word>
+            <lemma>style</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>music</word>
+            <lemma>music</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NN band)) (VP (VBZ continues) (S (VP (TO to) (VP (VB wow) (NP (NNS audiences)) (PP (IN with) (NP (NP (PRP$ its) (NN energy) (CC and) (NN style)) (PP (IN of) (NP (NN music))))))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="det">
+            <governor idx="2">band</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">continues</governor>
+            <dependent idx="2">band</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">wow</governor>
+            <dependent idx="4">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">continues</governor>
+            <dependent idx="5">wow</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">wow</governor>
+            <dependent idx="6">audiences</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">wow</governor>
+            <dependent idx="7">with</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">energy</governor>
+            <dependent idx="8">its</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="7">with</governor>
+            <dependent idx="9">energy</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="9">energy</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="9">energy</governor>
+            <dependent idx="11">style</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="9">energy</governor>
+            <dependent idx="12">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">of</governor>
+            <dependent idx="13">music</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="2">band</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">continues</governor>
+            <dependent idx="2">band</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">wow</governor>
+            <dependent idx="4">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">continues</governor>
+            <dependent idx="5">wow</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">wow</governor>
+            <dependent idx="6">audiences</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">energy</governor>
+            <dependent idx="8">its</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="5">wow</governor>
+            <dependent idx="9">energy</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="9">energy</governor>
+            <dependent idx="11">style</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="9">energy</governor>
+            <dependent idx="13">music</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="2">band</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">continues</governor>
+            <dependent idx="2">band</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="5">wow</governor>
+            <dependent idx="4">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">continues</governor>
+            <dependent idx="5">wow</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">wow</governor>
+            <dependent idx="6">audiences</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="9">energy</governor>
+            <dependent idx="8">its</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="5">wow</governor>
+            <dependent idx="9">energy</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="5">wow</governor>
+            <dependent idx="11">style</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="9">energy</governor>
+            <dependent idx="11">style</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="9">energy</governor>
+            <dependent idx="13">music</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

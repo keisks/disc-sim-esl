@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>A</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>senior</word>
+            <lemma>senior</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Democrat</word>
+            <lemma>Democrat</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="4">
+            <word>who</word>
+            <lemma>who</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>emerged</word>
+            <lemma>emerge</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>over</word>
+            <lemma>over</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>PREV_IMMEDIATE P1Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="8">
+            <word>last</word>
+            <lemma>last</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>PREV_IMMEDIATE P1Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="9">
+            <word>year</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>PREV_IMMEDIATE P1Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="10">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>key</word>
+            <lemma>key</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>critic</word>
+            <lemma>critic</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>President</word>
+            <lemma>President</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>Bush</word>
+            <lemma>Bush</lemma>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="17">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>85</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>Iraq</word>
+            <lemma>Iraq</lemma>
+            <CharacterOffsetBegin>86</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="19">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>was</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>unsuccessful</word>
+            <lemma>unsuccessful</lemma>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>112</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>his</word>
+            <lemma>he</lemma>
+            <CharacterOffsetBegin>113</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>bid</word>
+            <lemma>bid</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>120</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>123</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>become</word>
+            <lemma>become</lemma>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>Democratic</word>
+            <lemma>democratic</lemma>
+            <CharacterOffsetBegin>131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>141</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="28">
+            <word>Majority</word>
+            <lemma>Majority</lemma>
+            <CharacterOffsetBegin>142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>150</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="29">
+            <word>Leader</word>
+            <lemma>Leader</lemma>
+            <CharacterOffsetBegin>151</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="30">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>158</CharacterOffsetBegin>
+            <CharacterOffsetEnd>159</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>under</word>
+            <lemma>under</lemma>
+            <CharacterOffsetBegin>160</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>future</word>
+            <lemma>future</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>172</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>FUTURE_REF</NormalizedNER>
+            <Timex tid="t2" type="DATE">FUTURE_REF</Timex>
+          </token>
+          <token id="33">
+            <word>House</word>
+            <lemma>House</lemma>
+            <CharacterOffsetBegin>173</CharacterOffsetBegin>
+            <CharacterOffsetEnd>178</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="34">
+            <word>Speaker</word>
+            <lemma>Speaker</lemma>
+            <CharacterOffsetBegin>179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>186</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>Nancy</word>
+            <lemma>Nancy</lemma>
+            <CharacterOffsetBegin>187</CharacterOffsetBegin>
+            <CharacterOffsetEnd>192</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="36">
+            <word>Pelosi</word>
+            <lemma>Pelosi</lemma>
+            <CharacterOffsetBegin>193</CharacterOffsetBegin>
+            <CharacterOffsetEnd>199</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="37">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>200</CharacterOffsetBegin>
+            <CharacterOffsetEnd>201</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (DT A) (JJ senior) (NNP Democrat)) (SBAR (WHNP (WP who)) (S (VP (VBD emerged) (PP (IN over) (NP (DT the) (JJ last) (NN year))) (PP (IN as) (NP (NP (DT a) (JJ key) (NN critic)) (PP (IN of) (NP (NP (NNP President) (NNP Bush)) (PP (IN on) (NP (NNP Iraq))))))))))) (, ,) (VP (VBD was) (ADJP (JJ unsuccessful)) (PP (IN in) (NP (PRP$ his) (NN bid) (S (VP (TO to) (VP (VB become) (NP (JJ Democratic) (NNP Majority) (NNP Leader))))))) (, ,) (PP (IN under) (NP (JJ future) (NNP House) (NNP Speaker) (NNP Nancy) (NNP Pelosi)))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="det">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="2">senior</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="3">Democrat</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">emerged</governor>
+            <dependent idx="4">who</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="5">emerged</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">emerged</governor>
+            <dependent idx="6">over</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">year</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">year</governor>
+            <dependent idx="8">last</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="6">over</governor>
+            <dependent idx="9">year</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">emerged</governor>
+            <dependent idx="10">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">critic</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">critic</governor>
+            <dependent idx="12">key</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">as</governor>
+            <dependent idx="13">critic</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="13">critic</governor>
+            <dependent idx="14">of</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Bush</governor>
+            <dependent idx="15">President</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="14">of</governor>
+            <dependent idx="16">Bush</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="16">Bush</governor>
+            <dependent idx="17">on</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="17">on</governor>
+            <dependent idx="18">Iraq</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="20">was</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="22">in</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="24">bid</governor>
+            <dependent idx="23">his</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="22">in</governor>
+            <dependent idx="24">bid</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="29">Leader</governor>
+            <dependent idx="25">to</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">Leader</governor>
+            <dependent idx="26">become</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">Leader</governor>
+            <dependent idx="27">Democratic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">Leader</governor>
+            <dependent idx="28">Majority</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="24">bid</governor>
+            <dependent idx="29">Leader</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="31">under</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="32">future</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="33">House</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="34">Speaker</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="35">Nancy</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="31">under</governor>
+            <dependent idx="36">Pelosi</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="2">senior</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="3">Democrat</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">emerged</governor>
+            <dependent idx="4">who</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="5">emerged</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">year</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">year</governor>
+            <dependent idx="8">last</dependent>
+          </dep>
+          <dep type="prep_over">
+            <governor idx="5">emerged</governor>
+            <dependent idx="9">year</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">critic</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">critic</governor>
+            <dependent idx="12">key</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="5">emerged</governor>
+            <dependent idx="13">critic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Bush</governor>
+            <dependent idx="15">President</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="13">critic</governor>
+            <dependent idx="16">Bush</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="16">Bush</governor>
+            <dependent idx="18">Iraq</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="20">was</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="24">bid</governor>
+            <dependent idx="23">his</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="24">bid</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="29">Leader</governor>
+            <dependent idx="25">to</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">Leader</governor>
+            <dependent idx="26">become</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">Leader</governor>
+            <dependent idx="27">Democratic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">Leader</governor>
+            <dependent idx="28">Majority</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="24">bid</governor>
+            <dependent idx="29">Leader</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="32">future</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="33">House</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="34">Speaker</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="35">Nancy</dependent>
+          </dep>
+          <dep type="prep_under">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="36">Pelosi</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="2">senior</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="3">Democrat</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">emerged</governor>
+            <dependent idx="4">who</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="3">Democrat</governor>
+            <dependent idx="5">emerged</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">year</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">year</governor>
+            <dependent idx="8">last</dependent>
+          </dep>
+          <dep type="prep_over">
+            <governor idx="5">emerged</governor>
+            <dependent idx="9">year</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">critic</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">critic</governor>
+            <dependent idx="12">key</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="5">emerged</governor>
+            <dependent idx="13">critic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Bush</governor>
+            <dependent idx="15">President</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="13">critic</governor>
+            <dependent idx="16">Bush</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="16">Bush</governor>
+            <dependent idx="18">Iraq</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="20">was</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="24">bid</governor>
+            <dependent idx="23">his</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="24">bid</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="29">Leader</governor>
+            <dependent idx="25">to</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="29">Leader</governor>
+            <dependent idx="26">become</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">Leader</governor>
+            <dependent idx="27">Democratic</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="29">Leader</governor>
+            <dependent idx="28">Majority</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="24">bid</governor>
+            <dependent idx="29">Leader</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="32">future</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="33">House</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="34">Speaker</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="36">Pelosi</governor>
+            <dependent idx="35">Nancy</dependent>
+          </dep>
+          <dep type="prep_under">
+            <governor idx="21">unsuccessful</governor>
+            <dependent idx="36">Pelosi</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>casino</word>
+            <lemma>casino</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>industry</word>
+            <lemma>industry</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>fearing</word>
+            <lemma>fear</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>competition</word>
+            <lemma>competition</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>has</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>not</word>
+            <lemma>not</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>always</word>
+            <lemma>always</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>supported</word>
+            <lemma>support</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>online</word>
+            <lemma>online</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>gambling</word>
+            <lemma>gambling</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>but</word>
+            <lemma>but</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>now</word>
+            <lemma>now</lemma>
+            <CharacterOffsetBegin>89</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>PRESENT_REF</NormalizedNER>
+            <Timex tid="t1" type="DATE">PRESENT_REF</Timex>
+          </token>
+          <token id="16">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>sees</word>
+            <lemma>see</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>Internet</word>
+            <lemma>internet</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="20">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>116</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>way</word>
+            <lemma>way</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>attract</word>
+            <lemma>attract</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>133</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>new</word>
+            <lemma>new</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>gamblers</word>
+            <lemma>gambler</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>146</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (DT The) (NN casino) (NN industry)) (, ,) (VP (VBG fearing) (NP (NN competition))) (, ,)) (VP (VBZ has) (RB not) (ADVP (RB always)) (VP (VBN supported) (NP (JJ online) (NN gambling)) (SBAR (CC but) (S (ADVP (RB now)) (NP (PRP it)) (VP (VBZ sees) (NP (DT the) (NN Internet)) (PP (IN as) (NP (DT a) (NN way) (S (VP (TO to) (VP (VB attract) (NP (JJ new) (NNS gamblers)))))))))))))) </parse>
+        <basic-dependencies>
+          <dep type="det">
+            <governor idx="3">industry</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">industry</governor>
+            <dependent idx="2">casino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">supported</governor>
+            <dependent idx="3">industry</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="3">industry</governor>
+            <dependent idx="5">fearing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">fearing</governor>
+            <dependent idx="6">competition</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="11">supported</governor>
+            <dependent idx="8">has</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="11">supported</governor>
+            <dependent idx="9">not</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">supported</governor>
+            <dependent idx="10">always</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">gambling</governor>
+            <dependent idx="12">online</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">supported</governor>
+            <dependent idx="13">gambling</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">sees</governor>
+            <dependent idx="14">but</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">sees</governor>
+            <dependent idx="15">now</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">sees</governor>
+            <dependent idx="16">it</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">supported</governor>
+            <dependent idx="17">sees</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">Internet</governor>
+            <dependent idx="18">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">sees</governor>
+            <dependent idx="19">Internet</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">sees</governor>
+            <dependent idx="20">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">way</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="20">as</governor>
+            <dependent idx="22">way</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="24">attract</governor>
+            <dependent idx="23">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="22">way</governor>
+            <dependent idx="24">attract</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">gamblers</governor>
+            <dependent idx="25">new</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="24">attract</governor>
+            <dependent idx="26">gamblers</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="det">
+            <governor idx="3">industry</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">industry</governor>
+            <dependent idx="2">casino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">supported</governor>
+            <dependent idx="3">industry</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="3">industry</governor>
+            <dependent idx="5">fearing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">fearing</governor>
+            <dependent idx="6">competition</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="11">supported</governor>
+            <dependent idx="8">has</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="11">supported</governor>
+            <dependent idx="9">not</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">supported</governor>
+            <dependent idx="10">always</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">gambling</governor>
+            <dependent idx="12">online</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">supported</governor>
+            <dependent idx="13">gambling</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">sees</governor>
+            <dependent idx="14">but</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">sees</governor>
+            <dependent idx="15">now</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">sees</governor>
+            <dependent idx="16">it</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">supported</governor>
+            <dependent idx="17">sees</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">Internet</governor>
+            <dependent idx="18">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">sees</governor>
+            <dependent idx="19">Internet</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">way</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="17">sees</governor>
+            <dependent idx="22">way</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="24">attract</governor>
+            <dependent idx="23">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="22">way</governor>
+            <dependent idx="24">attract</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">gamblers</governor>
+            <dependent idx="25">new</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="24">attract</governor>
+            <dependent idx="26">gamblers</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="det">
+            <governor idx="3">industry</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">industry</governor>
+            <dependent idx="2">casino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">supported</governor>
+            <dependent idx="3">industry</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="3">industry</governor>
+            <dependent idx="5">fearing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">fearing</governor>
+            <dependent idx="6">competition</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="11">supported</governor>
+            <dependent idx="8">has</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="11">supported</governor>
+            <dependent idx="9">not</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="11">supported</governor>
+            <dependent idx="10">always</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">gambling</governor>
+            <dependent idx="12">online</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">supported</governor>
+            <dependent idx="13">gambling</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="17">sees</governor>
+            <dependent idx="14">but</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="17">sees</governor>
+            <dependent idx="15">now</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="17">sees</governor>
+            <dependent idx="16">it</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="11">supported</governor>
+            <dependent idx="17">sees</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">Internet</governor>
+            <dependent idx="18">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="17">sees</governor>
+            <dependent idx="19">Internet</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">way</governor>
+            <dependent idx="21">a</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="17">sees</governor>
+            <dependent idx="22">way</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="24">attract</governor>
+            <dependent idx="23">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="22">way</governor>
+            <dependent idx="24">attract</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="26">gamblers</governor>
+            <dependent idx="25">new</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="24">attract</governor>
+            <dependent idx="26">gamblers</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

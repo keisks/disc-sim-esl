@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Osibisa</word>
+            <lemma>Osibisa</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="2">
+            <word>has</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>spent</word>
+            <lemma>spend</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>much</word>
+            <lemma>much</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t2" type="DURATION">P40Y</Timex>
+          </token>
+          <token id="7">
+            <word>last</word>
+            <lemma>last</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>P40Y</NormalizedNER>
+            <Timex tid="t2" type="DURATION">P40Y</Timex>
+          </token>
+          <token id="8">
+            <word>four</word>
+            <lemma>four</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>P40Y</NormalizedNER>
+            <Timex tid="t2" type="DURATION">P40Y</Timex>
+          </token>
+          <token id="9">
+            <word>decades</word>
+            <lemma>decade</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>P40Y</NormalizedNER>
+            <Timex tid="t2" type="DURATION">P40Y</Timex>
+          </token>
+          <token id="10">
+            <word>making</word>
+            <lemma>make</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>music</word>
+            <lemma>music</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>touring</word>
+            <lemma>touring</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Osibisa)) (VP (VBZ has) (VP (VBN spent) (ADVP (RB much) (PP (IN of) (NP (DT the) (JJ last) (CD four) (NNS decades)))) (S (VP (VBG making) (NP (NN music) (CC and) (NN touring)))))) (. .))) </parse>
+        <basic-dependencies>
+          <dep type="nsubj">
+            <governor idx="3">spent</governor>
+            <dependent idx="1">Osibisa</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">spent</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">spent</governor>
+            <dependent idx="4">much</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">much</governor>
+            <dependent idx="5">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">decades</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">decades</governor>
+            <dependent idx="7">last</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="9">decades</governor>
+            <dependent idx="8">four</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">of</governor>
+            <dependent idx="9">decades</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">spent</governor>
+            <dependent idx="10">making</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">making</governor>
+            <dependent idx="11">music</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="11">music</governor>
+            <dependent idx="12">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="11">music</governor>
+            <dependent idx="13">touring</dependent>
+          </dep>
+        </basic-dependencies>
+        <collapsed-dependencies>
+          <dep type="nsubj">
+            <governor idx="3">spent</governor>
+            <dependent idx="1">Osibisa</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">spent</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">spent</governor>
+            <dependent idx="4">much</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">decades</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">decades</governor>
+            <dependent idx="7">last</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="9">decades</governor>
+            <dependent idx="8">four</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">much</governor>
+            <dependent idx="9">decades</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">spent</governor>
+            <dependent idx="10">making</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">making</governor>
+            <dependent idx="11">music</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="11">music</governor>
+            <dependent idx="13">touring</dependent>
+          </dep>
+        </collapsed-dependencies>
+        <collapsed-ccprocessed-dependencies>
+          <dep type="nsubj">
+            <governor idx="3">spent</governor>
+            <dependent idx="1">Osibisa</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">spent</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">spent</governor>
+            <dependent idx="4">much</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">decades</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">decades</governor>
+            <dependent idx="7">last</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="9">decades</governor>
+            <dependent idx="8">four</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="4">much</governor>
+            <dependent idx="9">decades</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">spent</governor>
+            <dependent idx="10">making</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">making</governor>
+            <dependent idx="11">music</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">making</governor>
+            <dependent idx="13">touring</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="11">music</governor>
+            <dependent idx="13">touring</dependent>
+          </dep>
+        </collapsed-ccprocessed-dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>
